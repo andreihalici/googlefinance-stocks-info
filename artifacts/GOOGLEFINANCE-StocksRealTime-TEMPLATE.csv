@@ -1,0 +1,23 @@
+symbol,NASDAQ:STOCK_SYMBOL_REPLACE_ME,
+,,
+attribute,result,description
+price,"=GoogleFinance($B$1,A4)","Real-time price quote, delayed by up to 20 minutes.
+"
+priceopen,"=GoogleFinance($B$1,A5)",The price as of market open.
+high,"=GoogleFinance($B$1,A6)",The current day's high price.
+low,"=GoogleFinance($B$1,A7)",The current day's low price.
+volume,"=GoogleFinance($B$1,A8)",The current day's trading volume.
+marketcap,"=GoogleFinance($B$1,A9)",The market capitalization of the stock.
+tradetime,"=GoogleFinance($B$1,A10)",The time of the last trade.
+datadelay,"=GoogleFinance($B$1,A11)",How far delayed the real-time data is.
+volumeavg,"=GoogleFinance($B$1,A12)",The average daily trading volume.
+pe,"=GoogleFinance($B$1,A13)",The price/earnings ratio.
+eps,"=GoogleFinance($B$1,A14)",The earnings per share.
+high52,"=GoogleFinance($B$1,A15)",The 52-week high price.
+low52,"=GoogleFinance($B$1,A16)",The 52-week low price.
+change,"=GoogleFinance($B$1,A17)",The price change since the previous trading day's close.
+beta,"=GoogleFinance($B$1,A18)",The beta value.
+changepct,"=GoogleFinance($B$1,A19)",The percentage change in price since the previous trading day's close.
+closeyest,"=GoogleFinance($B$1,A20)",The previous day's closing price.
+shares,"=GoogleFinance($B$1,A21)",The number of outstanding shares.
+currency,"=GoogleFinance($B$1,A22)",The currency in which the security is priced.
