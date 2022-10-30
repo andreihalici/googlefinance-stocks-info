@@ -1,4 +1,4 @@
-symbol,NASDAQ:STOCK_SYMBOL_REPLACE_ME,
+symbol,STOCK_SYMBOL_REPLACE_ME,
 ,,
 attribute,result,description
 price,"=GoogleFinance($B$1,A4)","Real-time price quote, delayed by up to 20 minutes.
