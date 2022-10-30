@@ -5,6 +5,8 @@ from pprint import pprint
 import os
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+import google.auth
+import json
 
 CSV_FILE = os.getcwd() + str("/artifacts/GOOGLEFINANCE-StocksRealTime-TEMPLATE.csv")
 
@@ -88,4 +90,25 @@ def update_from_csv(creds, spreadsheet_id, stock_symbol: str):
         print(f"An error occurred: {error}")
         return error
 
+def get_values(creds, spreadsheet_id, range_name):
+    """
+    Creates the batch_update the user has access to.
+    Load pre-authorized user credentials from the environment.
+    TODO(developer) - See https://developers.google.com/identity
+    for guides on implementing OAuth2 for the application.
+        """
+
+    # pylint: disable=maybe-no-member
+    try:
+        service = build('sheets', 'v4', credentials=creds)
+
+        result = service.spreadsheets().values().get(
+            spreadsheetId=spreadsheet_id, range=range_name).execute()
+
+        json_object = json.dumps(dict(result['values']), indent=4)
+        return json_object
+
+    except HttpError as error:
+        print(f"An error occurred: {error}")
+        return error
 

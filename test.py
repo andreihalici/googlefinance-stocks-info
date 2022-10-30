@@ -1,5 +1,7 @@
+import json
 import os
 import time
+from pprint import pprint
 
 from google.auth.transport.requests import Request
 from google.oauth2.credentials import Credentials
@@ -38,15 +40,18 @@ if os.path.exists(TOKEN_FILE):
 
 
 try:
-    # spreadsheetId = api_functionality.create_spreadsheet(creds, "GOOGLEFINANCE-StocksRealTime")
+    #spreadsheetId = api_functionality.create_spreadsheet(creds, "GOOGLEFINANCE-StocksRealTime")
 
-    stock_symbol = "AAPL"
+    stock_symbol = "TSLA"
 
-    spreadsheetId = '1Jw1w2gGvVM5ywBNl341ZPajqoxZGN4hQrSo6gwg6Aqg'
+    spreadsheetId = '1PCu-eDlE9R0ghAXPvX_db-yb9BahMDUA3Q0Kj3cgBo0'
 
-    api_functionality.update_from_csv(creds, spreadsheetId, stock_symbol)
+    #api_functionality.update_from_csv(creds, spreadsheetId, stock_symbol)
 
+    time.sleep(3)
 
+    sheet_data = api_functionality.get_values(creds, spreadsheetId, "A4:B22")
+    print(sheet_data)
 
 except:
     pass
