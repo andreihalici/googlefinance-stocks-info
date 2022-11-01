@@ -1,7 +1,5 @@
 import json
 import os
-from pprint import pprint
-
 import coloredlogs, logging
 
 from fastapi import FastAPI
@@ -44,10 +42,9 @@ if os.path.exists(TOKEN_FILE):
             with open(TOKEN_FILE, 'w') as token:
                 token.write(creds.to_json())
 
-
 app = FastAPI(
     title="googlefinance-stocks-info",
-    description="Simple API which allows to pull realtime and historical data from Google Finance ",
+    description="Simple API which allows to pull realtime and historical data from Google Finance using Google Sheets API ",
     version="0.1",
     terms_of_service="https://www.gnu.org/licenses/gpl-3.0.en.html",
     contact={
@@ -78,6 +75,7 @@ def get_ticker_symbol_realtime_info(ticker_symbol: str):
         sheet_data = api_functionality.get_values(creds, spreadsheetId, "A4:B22")
 
         json_object = json.dumps(dict(sheet_data['values']), indent=4)
+
         return json_object
 
     except Exception as e:
@@ -85,6 +83,7 @@ def get_ticker_symbol_realtime_info(ticker_symbol: str):
 
     finally:
         api_functionality.delete_spreadsheet(creds, spreadsheetId)
+        logging.info("Deleted %s successfully", spreadsheetId)
 
 @app.get("/stocks/historical/{ticker_symbol}")
 def get_ticker_symbol_historical_info(ticker_symbol: str):
@@ -106,6 +105,7 @@ def get_ticker_symbol_historical_info(ticker_symbol: str):
                 del sheet_data[key]
 
         json_object = json.dumps(sheet_data, indent=4)
+
         return json_object
 
     except Exception as e:
@@ -113,3 +113,4 @@ def get_ticker_symbol_historical_info(ticker_symbol: str):
 
     finally:
         api_functionality.delete_spreadsheet(creds, spreadsheetId)
+        logging.info("Deleted %s successfully", spreadsheetId)

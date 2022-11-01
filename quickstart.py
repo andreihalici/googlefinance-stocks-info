@@ -8,8 +8,9 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-# If modifying these scopes, delete the file token.json.
+''' Use this file to quickly test if authentication and authorization works as intended '''
 
+# If modifying these scopes, delete the file token.json.
 SCOPES = [
           "https://www.googleapis.com/auth/drive",
           "https://www.googleapis.com/auth/spreadsheets"

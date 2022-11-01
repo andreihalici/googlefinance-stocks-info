@@ -1,12 +1,10 @@
 #!/usr/bin/env python3
-from __future__ import print_function
 
-from pprint import pprint
-import os
+import logging
+
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
-import google.auth
-import json
+
 
 def create_spreadsheet(creds, title):
     """
@@ -28,11 +26,10 @@ def create_spreadsheet(creds, title):
                                                                 fields='spreadsheetId') \
             .execute()
 
-        print(f"Spreadsheet ID: {(spreadsheet.get('spreadsheetId'))}")
         return spreadsheet.get('spreadsheetId')
 
     except HttpError as error:
-        print(f"An error occurred: {error}")
+        logging.info("An error occured: %s", error)
         return error
 
 def delete_spreadsheet(creds, spreadsheetId):
@@ -49,7 +46,7 @@ def delete_spreadsheet(creds, spreadsheetId):
         service.files().delete(fileId=spreadsheetId).execute()
 
     except HttpError as error:
-        print(f"An error occurred: {error}")
+        logging.info("An error occured: %s", error)
         return error
 
 def update_from_csv(creds, spreadsheet_id, stock_symbol: str, CSV_TEMPLATE_FILE):
@@ -82,7 +79,7 @@ def update_from_csv(creds, spreadsheet_id, stock_symbol: str, CSV_TEMPLATE_FILE)
         return request
 
     except HttpError as error:
-        print(f"An error occurred: {error}")
+        logging.info("An error occured: %s", error)
         return error
 
 def get_values(creds, spreadsheet_id, range_name):
@@ -103,6 +100,5 @@ def get_values(creds, spreadsheet_id, range_name):
         return result
 
     except HttpError as error:
-        print(f"An error occurred: {error}")
+        logging.info("An error occured: %s", error)
         return error
-
