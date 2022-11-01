@@ -46,12 +46,6 @@ app = FastAPI(
     title="googlefinance-stocks-info",
     description="Simple API which allows to pull realtime and historical data from Google Finance using Google Sheets API ",
     version="0.1",
-    terms_of_service="https://www.gnu.org/licenses/gpl-3.0.en.html",
-    contact={
-        "name": "Andrei Halici",
-        "url": "https://bindingpixels.com",
-        "email": "andrei.halici@bindingpixels.com",
-    },
     license_info={
         "name": "GNU GENERAL PUBLIC LICENSE Version 3",
         "url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
