@@ -53,13 +53,13 @@ In a nutshell: this project creates programmatically a spreadsheet and populates
 1. Clone the <a href="https://github.com/andreihalici/googlefinance-stocks-info">googlefinance-stocks-info</a> repository locally. Once the repository is cloned, create a python virtual environment using the ```python3 -m venv venv``` command and install the required dependencies using the ```make setup``` command.
 2. Follow the <a href="https://developers.google.com/sheets/api/quickstart/python">Python quickstart</a> instructions and enable the API, authorize the credentials (use included quickstart.py file), install the Google client libraries and test everything (as previously mentioned) using the quickstart.py file.
 3. Once the GCP project is set up correctly for authentification and authorization, install <a href="https://www.docker.com/">Docker</a> and build the docker container using:
-the ```make build``` command. To run the freshly built container use the ```make run-container``` command. Alternatively the ```make run-local```  command will start the application (used for development/testing).
+the ```make build``` command. To run the freshly built container use the ```make run-container``` command. Alternatively the ```make run-local```  command will start the application locally (used for development/testing).
 4. Navigate to ``` http://localhost``` on port ```80``` and test the API.
   <img src="artifacts/localhost=realtime.png" alt="logo" width="auto" height="auto" />
 
 <!-- Out Of Scope -->
 ## Out Of Scope
-While the APIs work as intended for a production ready API please consider adding:
+While the API works as intended, for a production ready API please consider adding:
 
 - <a href="https://fastapi.tiangolo.com/deployment/https/">HTTPS</a> support.
 - <a href="https://fastapi.tiangolo.com/tutorial/testing/">Testing</a> for existing endpoints.
