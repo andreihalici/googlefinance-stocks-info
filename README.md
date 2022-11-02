@@ -15,7 +15,7 @@
   * [Tech Stack](#tech-stack)
   * [Features](#features)
 - [Usage](#usage)
-- [Out Of Scope](#Out Of Scope)
+- [Out of Scope](#Out of Scope)
 - [Acknowledgements](#acknowledgements)
 
 <!-- About the Project -->
@@ -57,8 +57,8 @@ the ```make build``` command. To run the freshly built container use the ```make
 4. Navigate to ``` http://localhost``` on port ```80``` and test the API.
   <img src="artifacts/localhost=realtime.png" alt="logo" width="auto" height="auto" />
 
-<!-- Out Of Scope -->
-## Out Of Scope
+<!-- Out of Scope -->
+## Out of Scope
 While the API works as intended, for a production ready API please consider adding:
 
 - <a href="https://fastapi.tiangolo.com/deployment/https/">HTTPS</a> support.
