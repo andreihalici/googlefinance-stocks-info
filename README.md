@@ -15,13 +15,13 @@
   * [Tech Stack](#tech-stack)
   * [Features](#features)
 - [Usage](#usage)
-- [Out of scope](#Out of scope)
+- [Out Of Scope](#Out Of Scope)
 - [Acknowledgements](#acknowledgements)
 
 <!-- About the Project -->
 ## About the Project
 Unfortunately the "Google Finance API (both the Portfolio API and the Finance Gadgets and Tools API)" were "<a href="https://groups.google.com/g/google-finance-apis">shut down</a> on October 20, 2012". Realtime and historical data can be retrieved though using the <a href="https://support.google.com/docs/answer/3093281?hl=en">=GOOGLEFINANCE()</a> function directly in Google Sheets.
-In a nutshell: this project creates programmatically a spreadsheet and populates the required information using the GOOGLEFINANCE, values are then retrieved and served as a JSON response using FastAPI.
+In a nutshell: this project creates programmatically a spreadsheet and populates the required information using the =GOOGLEFINANCE function, values are then retrieved and served as a JSON response using FastAPI.
 
 <!-- Screenshots -->
 ### Screenshots
@@ -57,8 +57,8 @@ the ```make build``` command. To run the freshly built container use the ```make
 4. Navigate to ``` http://localhost``` on port ```80``` and test the API.
   <img src="artifacts/localhost=realtime.png" alt="logo" width="auto" height="auto" />
 
-<!-- Out of scope -->
-## Out of scope
+<!-- Out Of Scope -->
+## Out Of Scope
 While the APIs work as intended for a production ready API please consider adding:
 
 - <a href="https://fastapi.tiangolo.com/deployment/https/">HTTPS</a> support.
@@ -69,4 +69,3 @@ While the APIs work as intended for a production ready API please consider addin
 <!-- Acknowledgements -->
 ## Acknowledgements
 https://www.youtube.com/shorts/BQU_QcxFvzA
-
