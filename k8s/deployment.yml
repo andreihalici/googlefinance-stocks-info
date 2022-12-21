@@ -1,0 +1,34 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: googlefinance-stocks-info-deployment
+  namespace: googlefinance-stocks-info
+  labels:
+    k8s-app: googlefinance-stocks-info
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      k8s-app: googlefinance-stocks-info
+  template:
+    metadata:
+      name: googlefinance-stocks-info
+      labels:
+        k8s-app: googlefinance-stocks-info
+    spec:
+      containers:
+        - name: googlefinance-stocks-info
+          image: localhost:32000/googlefinance-stocks-info
+          ports:
+            - containerPort: 80
+          imagePullPolicy: Always
+          securityContext:
+            privileged: false
+      restartPolicy: Always
+      terminationGracePeriodSeconds: 30
+      dnsPolicy: ClusterFirst
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxUnavailable: 25%
+      maxSurge: 25%
