@@ -64,7 +64,7 @@ While the API works as intended, for a production ready API please consider addi
 - <a href="https://fastapi.tiangolo.com/deployment/https/">HTTPS</a> support.
 - <a href="https://fastapi.tiangolo.com/tutorial/testing/">Testing</a> for existing endpoints.
 - Setting up rate limiting and <a href="https://fastapi.tiangolo.com/tutorial/security"> security</a>.
-- Setting up logging, monitoring and tracing (using your favorite platform/tools).
+- Setting up logging, monitoring or tracing (using your favorite platform/tools).
 
 <!-- Acknowledgements -->
 ## Acknowledgements
