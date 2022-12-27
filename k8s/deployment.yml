@@ -6,7 +6,7 @@ metadata:
   labels:
     k8s-app: googlefinance-stocks-info
 spec:
-  replicas: 3
+  replicas: 8
   selector:
     matchLabels:
       k8s-app: googlefinance-stocks-info
