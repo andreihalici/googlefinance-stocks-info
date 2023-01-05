@@ -16,7 +16,6 @@ spec:
       labels:
         k8s-app: googlefinance-stocks-info
     spec:
-      hostNetwork: true
       nodeSelector:
         kubernetes.io/hostname: 'orion.bindingpixels.com'
       containers:
