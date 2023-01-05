@@ -16,6 +16,9 @@ spec:
       labels:
         k8s-app: googlefinance-stocks-info
     spec:
+      hostNetwork: true
+      nodeSelector:
+        kubernetes.io/hostname: 'orion.bindingpixels.com'
       containers:
         - name: googlefinance-stocks-info
           image: localhost:32000/googlefinance-stocks-info
@@ -23,7 +26,7 @@ spec:
             - containerPort: 80
           imagePullPolicy: Always
           securityContext:
-            privileged: false
+            privileged: true
       restartPolicy: Always
       terminationGracePeriodSeconds: 30
       dnsPolicy: ClusterFirst
