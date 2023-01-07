@@ -20,7 +20,7 @@ spec:
         kubernetes.io/hostname: 'orion.bindingpixels.com'
       containers:
         - name: googlefinance-stocks-info
-          image: localhost:32000/googlefinance-stocks-info
+          image: localhost:32000/googlefinance-stocks-info:latest
           ports:
             - containerPort: 80
           imagePullPolicy: Always
