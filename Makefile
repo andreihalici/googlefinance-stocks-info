@@ -8,7 +8,7 @@ build-local:
 	docker build -t googlefinance-stocks-info .
 
 run-local:
-	uvicorn main:app --reload
+	hypercorn app.main:app --reload
 
 run-container-local:
 	docker run -d --name googlefinance-stocks-info -p 80:80 googlefinance-stocks-info
