@@ -1,0 +1,22 @@
+{
+    "price": "103.34",
+    "priceopen": "103.21",
+    "high": "103.88",
+    "low": "102.84",
+    "volume": "51156",
+    "marketcap": "2664369655",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "86160",
+    "pe": "29.29",
+    "eps": "3.53",
+    "high52": "109.57",
+    "low52": "75.3",
+    "change": "-0.81",
+    "beta": "1.11",
+    "changepct": "-0.78",
+    "closeyest": "104.15",
+    "shares": "25783000",
+    "currency": "USD",
+    "ticker": "ESE"
+}

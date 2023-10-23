@@ -1,0 +1,22 @@
+{
+    "price": "10.05",
+    "priceopen": "10.15",
+    "high": "10.24",
+    "low": "10.04",
+    "volume": "71352",
+    "marketcap": "388403462",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "166914",
+    "pe": "#N/A",
+    "eps": "-0.55",
+    "high52": "13.54",
+    "low52": "7.75",
+    "change": "-0.01",
+    "beta": "1.18",
+    "changepct": "-0.1",
+    "closeyest": "10.06",
+    "shares": "38647000",
+    "currency": "USD",
+    "ticker": "NETI"
+}

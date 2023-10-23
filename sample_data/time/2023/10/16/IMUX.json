@@ -1,0 +1,22 @@
+{
+    "price": "1.23",
+    "priceopen": "1.26",
+    "high": "1.26",
+    "low": "1.16",
+    "volume": "1278173",
+    "marketcap": "54852318",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "1099765",
+    "pe": "#N/A",
+    "eps": "-3.29",
+    "high52": "10.69",
+    "low52": "1.11",
+    "change": "0.02",
+    "beta": "2",
+    "changepct": "1.65",
+    "closeyest": "1.21",
+    "shares": "44595000",
+    "currency": "USD",
+    "ticker": "IMUX"
+}

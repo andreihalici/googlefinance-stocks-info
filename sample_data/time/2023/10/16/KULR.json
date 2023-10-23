@@ -1,0 +1,22 @@
+{
+    "price": "0.4",
+    "priceopen": "0.42",
+    "high": "0.43",
+    "low": "0.39",
+    "volume": "334140",
+    "marketcap": "49808006",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "566693",
+    "pe": "#N/A",
+    "eps": "-0.21",
+    "high52": "2.22",
+    "low52": "0.35",
+    "change": "0.01",
+    "beta": "0.25",
+    "changepct": "2.32",
+    "closeyest": "0.39",
+    "shares": "125926000",
+    "currency": "USD",
+    "ticker": "KULR"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "1.2",
+    "priceopen": "1.22",
+    "high": "1.25",
+    "low": "1.18",
+    "volume": "212985",
+    "marketcap": "15682464",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "2529264",
+    "pe": "#N/A",
+    "eps": "-9.58",
+    "high52": "23.84",
+    "low52": "0.99",
+    "change": "-0.05",
+    "beta": "3.08",
+    "changepct": "-4",
+    "closeyest": "1.25",
+    "shares": "13069000",
+    "currency": "USD",
+    "ticker": "COSM"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "25.01",
+    "priceopen": "24.42",
+    "high": "25.1",
+    "low": "24.42",
+    "volume": "20096",
+    "marketcap": "190339907",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "32270",
+    "pe": "#N/A",
+    "eps": "-2.66",
+    "high52": "33.2",
+    "low52": "22.58",
+    "change": "0.59",
+    "beta": "0.81",
+    "changepct": "2.42",
+    "closeyest": "24.42",
+    "shares": "7611000",
+    "currency": "USD",
+    "ticker": "ALCO"
+}

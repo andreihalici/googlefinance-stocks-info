@@ -1,0 +1,22 @@
+{
+    "price": "10.22",
+    "priceopen": "10.19",
+    "high": "10.22",
+    "low": "10.19",
+    "volume": "32",
+    "marketcap": "103756000",
+    "tradetime": "10/11/2023 15:43:51",
+    "datadelay": "0",
+    "volumeavg": "781",
+    "pe": "#N/A",
+    "eps": "-0.27",
+    "high52": "10.58",
+    "low52": "9.82",
+    "change": "-0.04",
+    "beta": "#N/A",
+    "changepct": "-0.39",
+    "closeyest": "10.26",
+    "shares": "1557000",
+    "currency": "USD",
+    "ticker": "SLAC"
+}

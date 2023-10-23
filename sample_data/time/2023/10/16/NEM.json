@@ -1,0 +1,22 @@
+{
+    "price": "40.05",
+    "priceopen": "39.43",
+    "high": "40.37",
+    "low": "39.2",
+    "volume": "10715557",
+    "marketcap": "31831579193",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "9718571",
+    "pe": "#N/A",
+    "eps": "-0.95",
+    "high52": "55.41",
+    "low52": "34.81",
+    "change": "0.62",
+    "beta": "0.4",
+    "changepct": "1.57",
+    "closeyest": "39.43",
+    "shares": "794796000",
+    "currency": "USD",
+    "ticker": "NEM"
+}

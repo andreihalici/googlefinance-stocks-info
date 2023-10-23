@@ -1,0 +1,22 @@
+{
+    "price": "5.75",
+    "priceopen": "5.63",
+    "high": "5.79",
+    "low": "5.55",
+    "volume": "116366",
+    "marketcap": "2989113836",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "53919",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "6.48",
+    "low52": "4.49",
+    "change": "0.15",
+    "beta": "0.83",
+    "changepct": "2.68",
+    "closeyest": "5.6",
+    "shares": "102683000",
+    "currency": "USD",
+    "ticker": "LND"
+}

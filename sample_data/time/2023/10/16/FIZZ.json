@@ -1,0 +1,22 @@
+{
+    "price": "45.66",
+    "priceopen": "45.34",
+    "high": "46.98",
+    "low": "45.34",
+    "volume": "127453",
+    "marketcap": "4262550018",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "181529",
+    "pe": "27.34",
+    "eps": "1.67",
+    "high52": "55.12",
+    "low52": "40.11",
+    "change": "0.43",
+    "beta": "1.06",
+    "changepct": "0.95",
+    "closeyest": "45.23",
+    "shares": "93354000",
+    "currency": "USD",
+    "ticker": "FIZZ"
+}

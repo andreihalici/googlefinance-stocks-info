@@ -1,0 +1,22 @@
+{
+    "price": "1.28",
+    "priceopen": "1.21",
+    "high": "1.4",
+    "low": "1.21",
+    "volume": "20827",
+    "marketcap": "19230169",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "13230",
+    "pe": "20.72",
+    "eps": "0.06",
+    "high52": "3.39",
+    "low52": "0.72",
+    "change": "0.02",
+    "beta": "#N/A",
+    "changepct": "1.56",
+    "closeyest": "1.26",
+    "shares": "15020000",
+    "currency": "USD",
+    "ticker": "JCSE"
+}

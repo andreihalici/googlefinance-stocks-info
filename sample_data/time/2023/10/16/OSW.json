@@ -1,0 +1,22 @@
+{
+    "price": "10.15",
+    "priceopen": "10.19",
+    "high": "10.37",
+    "low": "10.1",
+    "volume": "498288",
+    "marketcap": "1009618127",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "652583",
+    "pe": "#N/A",
+    "eps": "-0.17",
+    "high52": "13.01",
+    "low52": "8.14",
+    "change": "0.06",
+    "beta": "1.95",
+    "changepct": "0.59",
+    "closeyest": "10.09",
+    "shares": "99470000",
+    "currency": "USD",
+    "ticker": "OSW"
+}

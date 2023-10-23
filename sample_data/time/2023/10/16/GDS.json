@@ -1,0 +1,22 @@
+{
+    "price": "10.36",
+    "priceopen": "10.13",
+    "high": "10.64",
+    "low": "10.13",
+    "volume": "387236",
+    "marketcap": "1999974105",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "583230",
+    "pe": "#N/A",
+    "eps": "-0.95",
+    "high52": "27.89",
+    "low52": "8.41",
+    "change": "0.17",
+    "beta": "0.74",
+    "changepct": "1.67",
+    "closeyest": "10.19",
+    "shares": "183119375",
+    "currency": "USD",
+    "ticker": "GDS"
+}

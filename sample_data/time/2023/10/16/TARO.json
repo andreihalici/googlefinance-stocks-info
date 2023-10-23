@@ -1,0 +1,22 @@
+{
+    "price": "34.21",
+    "priceopen": "34.99",
+    "high": "34.99",
+    "low": "34.17",
+    "volume": "23009",
+    "marketcap": "1285769473",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "24829",
+    "pe": "60.09",
+    "eps": "0.57",
+    "high52": "42.22",
+    "low52": "22.89",
+    "change": "-0.57",
+    "beta": "0.53",
+    "changepct": "-1.64",
+    "closeyest": "34.78",
+    "shares": "37585000",
+    "currency": "USD",
+    "ticker": "TARO"
+}

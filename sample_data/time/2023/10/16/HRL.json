@@ -1,0 +1,22 @@
+{
+    "price": "32.12",
+    "priceopen": "32.05",
+    "high": "32.42",
+    "low": "31.31",
+    "volume": "5147254",
+    "marketcap": "17552975560",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "2775522",
+    "pe": "20.12",
+    "eps": "1.6",
+    "high52": "49.73",
+    "low52": "30.7",
+    "change": "0.1",
+    "beta": "0.2",
+    "changepct": "0.31",
+    "closeyest": "32.02",
+    "shares": "546481000",
+    "currency": "USD",
+    "ticker": "HRL"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "111.39",
+    "priceopen": "112.56",
+    "high": "112.79",
+    "low": "109.79",
+    "volume": "3872723",
+    "marketcap": "51418225224",
+    "tradetime": "10/16/2023 16:01:24",
+    "datadelay": "0",
+    "volumeavg": "4647066",
+    "pe": "15.28",
+    "eps": "7.29",
+    "high52": "181.7",
+    "low52": "102.93",
+    "change": "-0.59",
+    "beta": "1.03",
+    "changepct": "-0.53",
+    "closeyest": "111.98",
+    "shares": "461605000",
+    "currency": "USD",
+    "ticker": "TGT"
+}

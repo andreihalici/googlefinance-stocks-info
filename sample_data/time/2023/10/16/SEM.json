@@ -1,0 +1,22 @@
+{
+    "price": "23.55",
+    "priceopen": "23.43",
+    "high": "23.93",
+    "low": "23.14",
+    "volume": "474171",
+    "marketcap": "2994226972",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "531384",
+    "pe": "14.7",
+    "eps": "1.6",
+    "high52": "33.51",
+    "low52": "18.86",
+    "change": "0.38",
+    "beta": "1.42",
+    "changepct": "1.64",
+    "closeyest": "23.17",
+    "shares": "127143000",
+    "currency": "USD",
+    "ticker": "SEM"
+}

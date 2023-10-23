@@ -1,0 +1,22 @@
+{
+    "price": "0.36",
+    "priceopen": "0.39",
+    "high": "0.39",
+    "low": "0.33",
+    "volume": "19725",
+    "marketcap": "3683796",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "13579",
+    "pe": "#N/A",
+    "eps": "-2.01",
+    "high52": "0.8",
+    "low52": "0.33",
+    "change": "-0.01",
+    "beta": "-0.1",
+    "changepct": "-2.15",
+    "closeyest": "0.37",
+    "shares": "10066000",
+    "currency": "USD",
+    "ticker": "ITP"
+}

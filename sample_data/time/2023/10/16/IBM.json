@@ -1,0 +1,22 @@
+{
+    "price": "139.21",
+    "priceopen": "139.28",
+    "high": "139.78",
+    "low": "138.52",
+    "volume": "3361468",
+    "marketcap": "126821151376",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "3875791",
+    "pe": "67.36",
+    "eps": "2.07",
+    "high52": "153.21",
+    "low52": "120.55",
+    "change": "0.75",
+    "beta": "0.85",
+    "changepct": "0.54",
+    "closeyest": "138.46",
+    "shares": "911006000",
+    "currency": "USD",
+    "ticker": "IBM"
+}

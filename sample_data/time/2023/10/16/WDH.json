@@ -1,0 +1,22 @@
+{
+    "price": "1.1",
+    "priceopen": "1.07",
+    "high": "1.12",
+    "low": "1.07",
+    "volume": "98348",
+    "marketcap": "419872209",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "152244",
+    "pe": "8.8",
+    "eps": "0.12",
+    "high52": "3.36",
+    "low52": "0.97",
+    "change": "0.03",
+    "beta": "#N/A",
+    "changepct": "2.8",
+    "closeyest": "1.07",
+    "shares": "301511600",
+    "currency": "USD",
+    "ticker": "WDH"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "1.34",
+    "priceopen": "1.24",
+    "high": "1.45",
+    "low": "1.19",
+    "volume": "64192",
+    "marketcap": "33645993",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "45262",
+    "pe": "#N/A",
+    "eps": "-0.61",
+    "high52": "5.9",
+    "low52": "1.19",
+    "change": "0.09",
+    "beta": "0.56",
+    "changepct": "7.2",
+    "closeyest": "1.25",
+    "shares": "25050000",
+    "currency": "USD",
+    "ticker": "IPA"
+}

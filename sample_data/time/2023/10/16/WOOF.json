@@ -1,0 +1,22 @@
+{
+    "price": "3.48",
+    "priceopen": "3.21",
+    "high": "3.5",
+    "low": "3.18",
+    "volume": "8407392",
+    "marketcap": "1063334537",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "5403392",
+    "pe": "25.58",
+    "eps": "0.14",
+    "high52": "12.58",
+    "low52": "3.15",
+    "change": "0.32",
+    "beta": "#N/A",
+    "changepct": "10.13",
+    "closeyest": "3.16",
+    "shares": "229974000",
+    "currency": "USD",
+    "ticker": "WOOF"
+}

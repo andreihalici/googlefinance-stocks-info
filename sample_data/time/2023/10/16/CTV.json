@@ -1,0 +1,22 @@
+{
+    "price": "1.05",
+    "priceopen": "1.01",
+    "high": "1.13",
+    "low": "0.95",
+    "volume": "153730",
+    "marketcap": "146268458",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "147480",
+    "pe": "#N/A",
+    "eps": "-0.32",
+    "high52": "3.74",
+    "low52": "0.75",
+    "change": "0.05",
+    "beta": "#N/A",
+    "changepct": "5",
+    "closeyest": "1",
+    "shares": "139303000",
+    "currency": "USD",
+    "ticker": "CTV"
+}

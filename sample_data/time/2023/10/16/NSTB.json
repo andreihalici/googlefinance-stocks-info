@@ -1,0 +1,22 @@
+{
+    "price": "10.24",
+    "priceopen": "10.24",
+    "high": "10.24",
+    "low": "10.24",
+    "volume": "419",
+    "marketcap": "123574417",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "5051",
+    "pe": "65.63",
+    "eps": "0.16",
+    "high52": "10.7",
+    "low52": "9.84",
+    "change": "0.02",
+    "beta": "#N/A",
+    "changepct": "0.24",
+    "closeyest": "10.21",
+    "shares": "11782000",
+    "currency": "USD",
+    "ticker": "NSTB"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "13",
+    "priceopen": "12.2",
+    "high": "13",
+    "low": "12.02",
+    "volume": "114941",
+    "marketcap": "255912670",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "24416",
+    "pe": "13.49",
+    "eps": "0.96",
+    "high52": "26.29",
+    "low52": "6.8",
+    "change": "0.8",
+    "beta": "0.81",
+    "changepct": "6.56",
+    "closeyest": "12.2",
+    "shares": "19472000",
+    "currency": "USD",
+    "ticker": "GRIN"
+}

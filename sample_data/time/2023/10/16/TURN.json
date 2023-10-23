@@ -1,0 +1,22 @@
+{
+    "price": "4.05",
+    "priceopen": "4.02",
+    "high": "4.1",
+    "low": "4.02",
+    "volume": "20298",
+    "marketcap": "40500568",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "10624",
+    "pe": "#N/A",
+    "eps": "-2.2",
+    "high52": "5.88",
+    "low52": "3.98",
+    "change": "-0.05",
+    "beta": "0.81",
+    "changepct": "-1.22",
+    "closeyest": "4.1",
+    "shares": "10374000",
+    "currency": "USD",
+    "ticker": "TURN"
+}

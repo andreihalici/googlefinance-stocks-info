@@ -1,0 +1,22 @@
+{
+    "price": "123.6",
+    "priceopen": "119.5",
+    "high": "125.09",
+    "low": "117.72",
+    "volume": "1762044",
+    "marketcap": "6990545229",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "1880356",
+    "pe": "23.91",
+    "eps": "5.17",
+    "high52": "345.8",
+    "low52": "116.56",
+    "change": "3.84",
+    "beta": "1.45",
+    "changepct": "3.21",
+    "closeyest": "119.76",
+    "shares": "56558000",
+    "currency": "USD",
+    "ticker": "SEDG"
+}

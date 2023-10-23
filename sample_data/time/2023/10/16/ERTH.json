@@ -1,0 +1,22 @@
+{
+    "price": "42.21",
+    "priceopen": "41.88",
+    "high": "42.3",
+    "low": "41.88",
+    "volume": "2811",
+    "marketcap": "98221744",
+    "tradetime": "10/16/2023 18:30:00",
+    "datadelay": "0",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "-1.18",
+    "high52": "54.48",
+    "low52": "41.34",
+    "change": "0.24",
+    "beta": "#N/A",
+    "changepct": "0.58",
+    "closeyest": "41.97",
+    "shares": "3800000",
+    "currency": "USD",
+    "ticker": "ERTH"
+}

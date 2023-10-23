@@ -1,0 +1,22 @@
+{
+    "price": "12.29",
+    "priceopen": "12",
+    "high": "12.34",
+    "low": "11.83",
+    "volume": "528972",
+    "marketcap": "643338237",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "521995",
+    "pe": "13.59",
+    "eps": "0.9",
+    "high52": "21.37",
+    "low52": "11.79",
+    "change": "0.48",
+    "beta": "1.06",
+    "changepct": "4.06",
+    "closeyest": "11.81",
+    "shares": "52346000",
+    "currency": "USD",
+    "ticker": "GDOT"
+}

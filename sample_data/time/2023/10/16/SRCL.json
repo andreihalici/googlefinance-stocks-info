@@ -1,0 +1,22 @@
+{
+    "price": "42.83",
+    "priceopen": "42.03",
+    "high": "43.12",
+    "low": "41.92",
+    "volume": "269605",
+    "marketcap": "3962702438",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "641192",
+    "pe": "183.92",
+    "eps": "0.23",
+    "high52": "56.12",
+    "low52": "40.19",
+    "change": "1.13",
+    "beta": "1.2",
+    "changepct": "2.71",
+    "closeyest": "41.7",
+    "shares": "92522000",
+    "currency": "USD",
+    "ticker": "SRCL"
+}

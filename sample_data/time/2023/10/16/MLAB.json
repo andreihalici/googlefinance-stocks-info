@@ -1,0 +1,22 @@
+{
+    "price": "98.95",
+    "priceopen": "102.81",
+    "high": "103.31",
+    "low": "98.77",
+    "volume": "49370",
+    "marketcap": "532775479",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "39984",
+    "pe": "291.93",
+    "eps": "0.34",
+    "high52": "206.36",
+    "low52": "94.73",
+    "change": "-2.5",
+    "beta": "0.79",
+    "changepct": "-2.46",
+    "closeyest": "101.45",
+    "shares": "5384000",
+    "currency": "USD",
+    "ticker": "MLAB"
+}

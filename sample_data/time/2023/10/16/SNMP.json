@@ -1,0 +1,22 @@
+{
+    "price": "1.44",
+    "priceopen": "1.52",
+    "high": "1.52",
+    "low": "1.44",
+    "volume": "18437",
+    "marketcap": "12170264",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "31751",
+    "pe": "#N/A",
+    "eps": "-9.1",
+    "high52": "13.81",
+    "low52": "0.14",
+    "change": "-0.15",
+    "beta": "1.54",
+    "changepct": "-9.43",
+    "closeyest": "1.59",
+    "shares": "8452000",
+    "currency": "USD",
+    "ticker": "SNMP"
+}

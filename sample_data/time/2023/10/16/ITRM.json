@@ -1,0 +1,22 @@
+{
+    "price": "0.7",
+    "priceopen": "0.8",
+    "high": "0.85",
+    "low": "0.68",
+    "volume": "108903",
+    "marketcap": "9128720",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "25904",
+    "pe": "#N/A",
+    "eps": "-4.52",
+    "high52": "1.98",
+    "low52": "0.6",
+    "change": "-0.06",
+    "beta": "1.58",
+    "changepct": "-7.89",
+    "closeyest": "0.76",
+    "shares": "13041000",
+    "currency": "USD",
+    "ticker": "ITRM"
+}

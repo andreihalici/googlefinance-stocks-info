@@ -1,0 +1,22 @@
+{
+    "price": "0.5",
+    "priceopen": "0.55",
+    "high": "0.55",
+    "low": "0.5",
+    "volume": "85468",
+    "marketcap": "40380745",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "303193",
+    "pe": "#N/A",
+    "eps": "-5.27",
+    "high52": "79.21",
+    "low52": "0.28",
+    "change": "-0.03",
+    "beta": "#N/A",
+    "changepct": "-5.66",
+    "closeyest": "0.53",
+    "shares": "80761000",
+    "currency": "USD",
+    "ticker": "SATX"
+}

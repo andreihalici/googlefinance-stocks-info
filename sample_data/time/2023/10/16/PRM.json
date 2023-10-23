@@ -1,0 +1,22 @@
+{
+    "price": "3.28",
+    "priceopen": "3.29",
+    "high": "3.34",
+    "low": "3.22",
+    "volume": "1812248",
+    "marketcap": "506828219",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "1331315",
+    "pe": "5.4",
+    "eps": "0.61",
+    "high52": "11.25",
+    "low52": "3.17",
+    "change": "0.05",
+    "beta": "#N/A",
+    "changepct": "1.55",
+    "closeyest": "3.23",
+    "shares": "154521000",
+    "currency": "USD",
+    "ticker": "PRM"
+}

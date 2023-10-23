@@ -1,0 +1,22 @@
+{
+    "price": "42.84",
+    "priceopen": "42.8",
+    "high": "43.14",
+    "low": "42.65",
+    "volume": "116589",
+    "marketcap": "2658175313",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "165775",
+    "pe": "6.83",
+    "eps": "6.28",
+    "high52": "53.71",
+    "low52": "39.1",
+    "change": "0.5",
+    "beta": "0.96",
+    "changepct": "1.18",
+    "closeyest": "42.34",
+    "shares": "62049000",
+    "currency": "USD",
+    "ticker": "IBOC"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "42.48",
+    "priceopen": "43.13",
+    "high": "43.28",
+    "low": "42.21",
+    "volume": "323299",
+    "marketcap": "1446304225",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "331616",
+    "pe": "2.74",
+    "eps": "15.51",
+    "high52": "48.05",
+    "low52": "26.4",
+    "change": "-0.65",
+    "beta": "-0.07",
+    "changepct": "-1.51",
+    "closeyest": "43.13",
+    "shares": "29313000",
+    "currency": "USD",
+    "ticker": "TNK"
+}

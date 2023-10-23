@@ -1,0 +1,22 @@
+{
+    "price": "10.75",
+    "priceopen": "10.79",
+    "high": "10.79",
+    "low": "10.74",
+    "volume": "2760",
+    "marketcap": "317629176",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "13662",
+    "pe": "60.73",
+    "eps": "0.18",
+    "high52": "11.64",
+    "low52": "9.96",
+    "change": "0.01",
+    "beta": "#N/A",
+    "changepct": "0.09",
+    "closeyest": "10.74",
+    "shares": "6443000",
+    "currency": "USD",
+    "ticker": "PACI"
+}

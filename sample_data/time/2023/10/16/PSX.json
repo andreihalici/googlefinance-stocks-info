@@ -1,0 +1,22 @@
+{
+    "price": "111.78",
+    "priceopen": "111.5",
+    "high": "112.66",
+    "low": "111.07",
+    "volume": "2750191",
+    "marketcap": "49774269740",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "3079723",
+    "pe": "4.85",
+    "eps": "23.03",
+    "high52": "125.19",
+    "low52": "89.74",
+    "change": "1.18",
+    "beta": "1.33",
+    "changepct": "1.07",
+    "closeyest": "110.6",
+    "shares": "445288000",
+    "currency": "USD",
+    "ticker": "PSX"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "103.34",
+    "priceopen": "103.26",
+    "high": "103.39",
+    "low": "103.16",
+    "volume": "304344",
+    "marketcap": "17929489364",
+    "tradetime": "10/16/2023 20:00:00",
+    "datadelay": "0",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "111.26",
+    "low52": "101.74",
+    "change": "-0.3",
+    "beta": "#N/A",
+    "changepct": "-0.29",
+    "closeyest": "103.64",
+    "shares": "197200000",
+    "currency": "USD",
+    "ticker": "TIP"
+}

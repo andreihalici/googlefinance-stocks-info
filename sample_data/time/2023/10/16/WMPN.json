@@ -1,0 +1,22 @@
+{
+    "price": "12.18",
+    "priceopen": "12.26",
+    "high": "12.39",
+    "low": "12.18",
+    "volume": "112641",
+    "marketcap": "135653535",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "60956",
+    "pe": "55.17",
+    "eps": "0.22",
+    "high52": "12.7",
+    "low52": "8.77",
+    "change": "-0.04",
+    "beta": "#N/A",
+    "changepct": "-0.33",
+    "closeyest": "12.22",
+    "shares": "10829000",
+    "currency": "USD",
+    "ticker": "WMPN"
+}

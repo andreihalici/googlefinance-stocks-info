@@ -1,0 +1,22 @@
+{
+    "price": "42.45",
+    "priceopen": "42.38",
+    "high": "42.45",
+    "low": "42.38",
+    "volume": "391",
+    "marketcap": "#N/A",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "3288",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "45.5",
+    "low52": "42.14",
+    "change": "-0.09",
+    "beta": "0.45",
+    "changepct": "-0.21",
+    "closeyest": "42.54",
+    "shares": "700000",
+    "currency": "USD",
+    "ticker": "HISF"
+}

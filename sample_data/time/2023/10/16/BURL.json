@@ -1,0 +1,22 @@
+{
+    "price": "123.21",
+    "priceopen": "118.37",
+    "high": "124.78",
+    "low": "118.26",
+    "volume": "1802692",
+    "marketcap": "7990172136",
+    "tradetime": "10/16/2023 16:00:05",
+    "datadelay": "0",
+    "volumeavg": "1185806",
+    "pe": "30.32",
+    "eps": "4.06",
+    "high52": "239.94",
+    "low52": "113.3",
+    "change": "6.9",
+    "beta": "1.15",
+    "changepct": "5.93",
+    "closeyest": "116.31",
+    "shares": "64850000",
+    "currency": "USD",
+    "ticker": "BURL"
+}

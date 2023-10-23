@@ -1,0 +1,22 @@
+{
+    "price": "10.99",
+    "priceopen": "10.65",
+    "high": "11.16",
+    "low": "10.6",
+    "volume": "277302",
+    "marketcap": "281287395",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "208865",
+    "pe": "17.21",
+    "eps": "0.64",
+    "high52": "29.07",
+    "low52": "9.72",
+    "change": "0.44",
+    "beta": "1.35",
+    "changepct": "4.17",
+    "closeyest": "10.55",
+    "shares": "23630000",
+    "currency": "USD",
+    "ticker": "BAND"
+}

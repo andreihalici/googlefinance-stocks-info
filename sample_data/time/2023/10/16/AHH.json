@@ -1,0 +1,22 @@
+{
+    "price": "10.5",
+    "priceopen": "10.47",
+    "high": "10.56",
+    "low": "10.34",
+    "volume": "287278",
+    "marketcap": "940273425",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "350195",
+    "pe": "15.6",
+    "eps": "0.67",
+    "high52": "13.73",
+    "low52": "9.93",
+    "change": "0.15",
+    "beta": "0.93",
+    "changepct": "1.45",
+    "closeyest": "10.35",
+    "shares": "67947000",
+    "currency": "USD",
+    "ticker": "AHH"
+}

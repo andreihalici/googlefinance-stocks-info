@@ -1,0 +1,22 @@
+{
+    "price": "1.12",
+    "priceopen": "1.16",
+    "high": "1.16",
+    "low": "1.12",
+    "volume": "5598",
+    "marketcap": "11087734",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "13522",
+    "pe": "#N/A",
+    "eps": "-0.31",
+    "high52": "2.27",
+    "low52": "1.01",
+    "change": "0.02",
+    "beta": "0.72",
+    "changepct": "1.82",
+    "closeyest": "1.1",
+    "shares": "9900000",
+    "currency": "USD",
+    "ticker": "VRME"
+}

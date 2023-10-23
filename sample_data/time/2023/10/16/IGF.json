@@ -1,0 +1,22 @@
+{
+    "price": "42.95",
+    "priceopen": "42.63",
+    "high": "43",
+    "low": "42.51",
+    "volume": "397753",
+    "marketcap": "591194001",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "1059370",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "49.25",
+    "low52": "40.38",
+    "change": "0.3",
+    "beta": "0.81",
+    "changepct": "0.7",
+    "closeyest": "42.65",
+    "shares": "77700000",
+    "currency": "USD",
+    "ticker": "IGF"
+}

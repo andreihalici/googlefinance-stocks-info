@@ -1,0 +1,22 @@
+{
+    "price": "12.34",
+    "priceopen": "12.22",
+    "high": "12.43",
+    "low": "12.22",
+    "volume": "185241",
+    "marketcap": "323456577",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "116167",
+    "pe": "58.82",
+    "eps": "0.21",
+    "high52": "15.3",
+    "low52": "12.14",
+    "change": "0.06",
+    "beta": "0.81",
+    "changepct": "0.49",
+    "closeyest": "12.28",
+    "shares": "26212000",
+    "currency": "USD",
+    "ticker": "HQL"
+}

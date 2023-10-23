@@ -1,0 +1,22 @@
+{
+    "price": "10.1",
+    "priceopen": "10.75",
+    "high": "10.75",
+    "low": "9.72",
+    "volume": "7193",
+    "marketcap": "372692741",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "26565",
+    "pe": "#N/A",
+    "eps": "-1.68",
+    "high52": "19.3",
+    "low52": "9.62",
+    "change": "-0.25",
+    "beta": "#N/A",
+    "changepct": "-2.42",
+    "closeyest": "10.35",
+    "shares": "31237000",
+    "currency": "USD",
+    "ticker": "ANL"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "8.88",
+    "priceopen": "8.91",
+    "high": "8.91",
+    "low": "8.88",
+    "volume": "1262",
+    "marketcap": "20867929",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "4789",
+    "pe": "#N/A",
+    "eps": "-0.51",
+    "high52": "12.53",
+    "low52": "8.88",
+    "change": "-0.06",
+    "beta": "0.35",
+    "changepct": "-0.67",
+    "closeyest": "8.94",
+    "shares": "2347000",
+    "currency": "USD",
+    "ticker": "NOM"
+}

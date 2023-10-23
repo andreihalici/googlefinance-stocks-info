@@ -1,0 +1,22 @@
+{
+    "price": "42.26",
+    "priceopen": "41.92",
+    "high": "42.32",
+    "low": "41.92",
+    "volume": "7449",
+    "marketcap": "1951334968",
+    "tradetime": "10/16/2023 18:30:00",
+    "datadelay": "0",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "49.52",
+    "low52": "39.92",
+    "change": "0.6",
+    "beta": "#N/A",
+    "changepct": "1.43",
+    "closeyest": "41.66",
+    "shares": "19150000",
+    "currency": "USD",
+    "ticker": "EES"
+}

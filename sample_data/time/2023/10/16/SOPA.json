@@ -1,0 +1,22 @@
+{
+    "price": "0.3",
+    "priceopen": "0.28",
+    "high": "0.33",
+    "low": "0.28",
+    "volume": "309876",
+    "marketcap": "8574169",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "516712",
+    "pe": "#N/A",
+    "eps": "-1.08",
+    "high52": "2.01",
+    "low52": "0.24",
+    "change": "-0.02",
+    "beta": "#N/A",
+    "changepct": "-5.84",
+    "closeyest": "0.32",
+    "shares": "30610000",
+    "currency": "USD",
+    "ticker": "SOPA"
+}

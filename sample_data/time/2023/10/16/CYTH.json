@@ -1,0 +1,22 @@
+{
+    "price": "1.05",
+    "priceopen": "1.08",
+    "high": "1.1",
+    "low": "1.05",
+    "volume": "30524",
+    "marketcap": "20290944",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "42631",
+    "pe": "#N/A",
+    "eps": "-1.88",
+    "high52": "2.57",
+    "low52": "0.67",
+    "change": "-0.01",
+    "beta": "-0.33",
+    "changepct": "-0.94",
+    "closeyest": "1.06",
+    "shares": "19325000",
+    "currency": "USD",
+    "ticker": "CYTH"
+}

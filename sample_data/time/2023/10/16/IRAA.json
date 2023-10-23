@@ -1,0 +1,22 @@
+{
+    "price": "10.32",
+    "priceopen": "10.35",
+    "high": "10.35",
+    "low": "10.32",
+    "volume": "4476",
+    "marketcap": "75404192",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "8690",
+    "pe": "357.71",
+    "eps": "0.03",
+    "high52": "11.22",
+    "low52": "9.82",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-0.1",
+    "closeyest": "10.33",
+    "shares": "1413000",
+    "currency": "USD",
+    "ticker": "IRAA"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "12.08",
+    "priceopen": "12.1",
+    "high": "12.35",
+    "low": "12.06",
+    "volume": "13631",
+    "marketcap": "93545600",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "13342",
+    "pe": "#N/A",
+    "eps": "-2.34",
+    "high52": "20.26",
+    "low52": "12.06",
+    "change": "-0.02",
+    "beta": "1.22",
+    "changepct": "-0.17",
+    "closeyest": "12.1",
+    "shares": "10000000",
+    "currency": "USD",
+    "ticker": "BPYPO"
+}

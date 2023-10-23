@@ -1,0 +1,22 @@
+{
+    "price": "1.2",
+    "priceopen": "1.2",
+    "high": "1.22",
+    "low": "1.12",
+    "volume": "1162429",
+    "marketcap": "262732930",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "860158",
+    "pe": "#N/A",
+    "eps": "-0.41",
+    "high52": "2.55",
+    "low52": "1.12",
+    "change": "0.03",
+    "beta": "0.78",
+    "changepct": "2.56",
+    "closeyest": "1.17",
+    "shares": "218944000",
+    "currency": "USD",
+    "ticker": "NUVB"
+}

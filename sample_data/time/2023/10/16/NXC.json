@@ -1,0 +1,22 @@
+{
+    "price": "12.2",
+    "priceopen": "12.16",
+    "high": "12.29",
+    "low": "12.16",
+    "volume": "9294",
+    "marketcap": "77619765",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "17362",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "15.28",
+    "low52": "12.05",
+    "change": "-0.07",
+    "beta": "0.28",
+    "changepct": "-0.57",
+    "closeyest": "12.27",
+    "shares": "6362000",
+    "currency": "USD",
+    "ticker": "NXC"
+}

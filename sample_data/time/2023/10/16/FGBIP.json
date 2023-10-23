@@ -1,0 +1,22 @@
+{
+    "price": "17.55",
+    "priceopen": "18",
+    "high": "18",
+    "low": "17.55",
+    "volume": "426",
+    "marketcap": "120826512",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "521",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "25.35",
+    "low52": "15.57",
+    "change": "-0.45",
+    "beta": "#N/A",
+    "changepct": "-2.5",
+    "closeyest": "18",
+    "shares": "1380000",
+    "currency": "USD",
+    "ticker": "FGBIP"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "100.52",
+    "priceopen": "100.38",
+    "high": "100.68",
+    "low": "99.4",
+    "volume": "19488",
+    "marketcap": "591194001",
+    "tradetime": "10/16/2023 20:00:01",
+    "datadelay": "15",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "106.36",
+    "low52": "77.25",
+    "change": "0.84",
+    "beta": "#N/A",
+    "changepct": "0.84",
+    "closeyest": "99.68",
+    "shares": "6650000",
+    "currency": "USD",
+    "ticker": "IEO"
+}

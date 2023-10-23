@@ -1,0 +1,22 @@
+{
+    "price": "12.88",
+    "priceopen": "12.77",
+    "high": "12.94",
+    "low": "12.68",
+    "volume": "357054",
+    "marketcap": "2350827996",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "557315",
+    "pe": "154.16",
+    "eps": "0.08",
+    "high52": "15.44",
+    "low52": "9.26",
+    "change": "0.12",
+    "beta": "#N/A",
+    "changepct": "0.94",
+    "closeyest": "12.76",
+    "shares": "182518000",
+    "currency": "USD",
+    "ticker": "NABL"
+}

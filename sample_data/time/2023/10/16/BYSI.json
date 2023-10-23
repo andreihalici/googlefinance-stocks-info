@@ -1,0 +1,22 @@
+{
+    "price": "1.02",
+    "priceopen": "1.13",
+    "high": "1.13",
+    "low": "1",
+    "volume": "125566",
+    "marketcap": "39702571",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "101205",
+    "pe": "#N/A",
+    "eps": "-0.85",
+    "high52": "3.45",
+    "low52": "0.54",
+    "change": "0.02",
+    "beta": "0.22",
+    "changepct": "2",
+    "closeyest": "1",
+    "shares": "38924000",
+    "currency": "USD",
+    "ticker": "BYSI"
+}

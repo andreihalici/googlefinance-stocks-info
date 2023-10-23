@@ -1,0 +1,22 @@
+{
+    "price": "0.3",
+    "priceopen": "0.3",
+    "high": "0.32",
+    "low": "0.29",
+    "volume": "7607508",
+    "marketcap": "46959441",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "72902658",
+    "pe": "#N/A",
+    "eps": "-0.95",
+    "high52": "0.54",
+    "low52": "0.07",
+    "change": "0.01",
+    "beta": "-0.65",
+    "changepct": "4.79",
+    "closeyest": "0.29",
+    "shares": "159097000",
+    "currency": "USD",
+    "ticker": "NVOS"
+}

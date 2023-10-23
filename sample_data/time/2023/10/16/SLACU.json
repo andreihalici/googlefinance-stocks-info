@@ -1,0 +1,22 @@
+{
+    "price": "10.01",
+    "priceopen": "10.01",
+    "high": "10.01",
+    "low": "10.01",
+    "volume": "150",
+    "marketcap": "103756000",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "800",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "10.3",
+    "low52": "9.5",
+    "change": "-0.12",
+    "beta": "#N/A",
+    "changepct": "-1.18",
+    "closeyest": "10.13",
+    "shares": "34500000",
+    "currency": "USD",
+    "ticker": "SLACU"
+}

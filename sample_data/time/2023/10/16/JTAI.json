@@ -1,0 +1,22 @@
+{
+    "price": "2.42",
+    "priceopen": "2.64",
+    "high": "2.65",
+    "low": "2.4",
+    "volume": "17783",
+    "marketcap": "21090407",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "56005",
+    "pe": "9.25",
+    "eps": "0.26",
+    "high52": "17.5",
+    "low52": "2.33",
+    "change": "-0.04",
+    "beta": "#N/A",
+    "changepct": "-1.63",
+    "closeyest": "2.46",
+    "shares": "8715000",
+    "currency": "USD",
+    "ticker": "JTAI"
+}

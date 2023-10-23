@@ -1,0 +1,22 @@
+{
+    "price": "123.74",
+    "priceopen": "122.09",
+    "high": "124.95",
+    "low": "122.09",
+    "volume": "345093",
+    "marketcap": "14477772448",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "300893",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "138.16",
+    "low52": "85.86",
+    "change": "2.45",
+    "beta": "1.48",
+    "changepct": "2.02",
+    "closeyest": "121.29",
+    "shares": "85801000",
+    "currency": "USD",
+    "ticker": "TFII"
+}

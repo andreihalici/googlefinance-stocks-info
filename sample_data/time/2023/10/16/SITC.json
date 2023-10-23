@@ -1,0 +1,22 @@
+{
+    "price": "12",
+    "priceopen": "12.05",
+    "high": "12.14",
+    "low": "11.94",
+    "volume": "1378485",
+    "marketcap": "2511285600",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "1555166",
+    "pe": "24.78",
+    "eps": "0.48",
+    "high52": "14.63",
+    "low52": "11.12",
+    "change": "0.1",
+    "beta": "1.55",
+    "changepct": "0.84",
+    "closeyest": "11.9",
+    "shares": "209274000",
+    "currency": "USD",
+    "ticker": "SITC"
+}

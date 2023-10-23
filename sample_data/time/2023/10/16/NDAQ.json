@@ -1,0 +1,22 @@
+{
+    "price": "50.3",
+    "priceopen": "49.75",
+    "high": "50.38",
+    "low": "49.66",
+    "volume": "2296100",
+    "marketcap": "24713199455",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "2200861",
+    "pe": "22.57",
+    "eps": "2.23",
+    "high52": "69.22",
+    "low52": "46.88",
+    "change": "0.93",
+    "beta": "0.91",
+    "changepct": "1.88",
+    "closeyest": "49.37",
+    "shares": "491316000",
+    "currency": "USD",
+    "ticker": "NDAQ"
+}

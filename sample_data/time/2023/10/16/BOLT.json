@@ -1,0 +1,22 @@
+{
+    "price": "1.02",
+    "priceopen": "0.98",
+    "high": "1.06",
+    "low": "0.96",
+    "volume": "152234",
+    "marketcap": "38709998",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "166998",
+    "pe": "#N/A",
+    "eps": "-2.04",
+    "high52": "2.03",
+    "low52": "0.89",
+    "change": "0.06",
+    "beta": "#N/A",
+    "changepct": "6.25",
+    "closeyest": "0.96",
+    "shares": "37951000",
+    "currency": "USD",
+    "ticker": "BOLT"
+}

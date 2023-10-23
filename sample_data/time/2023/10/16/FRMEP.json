@@ -1,0 +1,22 @@
+{
+    "price": "23.78",
+    "priceopen": "23.8",
+    "high": "23.8",
+    "low": "23.59",
+    "volume": "1506",
+    "marketcap": "1657416757",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "1578",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "26.86",
+    "low52": "21.64",
+    "change": "0.06",
+    "beta": "0.2",
+    "changepct": "0.25",
+    "closeyest": "23.72",
+    "shares": "1000000",
+    "currency": "USD",
+    "ticker": "FRMEP"
+}

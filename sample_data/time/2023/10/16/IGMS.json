@@ -1,0 +1,22 @@
+{
+    "price": "4.44",
+    "priceopen": "4.46",
+    "high": "4.84",
+    "low": "4.1",
+    "volume": "366549",
+    "marketcap": "259143666",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "306039",
+    "pe": "#N/A",
+    "eps": "-5.26",
+    "high52": "28.2",
+    "low52": "4.1",
+    "change": "0.03",
+    "beta": "-0.29",
+    "changepct": "0.68",
+    "closeyest": "4.41",
+    "shares": "32865000",
+    "currency": "USD",
+    "ticker": "IGMS"
+}

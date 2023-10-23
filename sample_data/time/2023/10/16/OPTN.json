@@ -1,0 +1,22 @@
+{
+    "price": "1.25",
+    "priceopen": "1.25",
+    "high": "1.28",
+    "low": "1.21",
+    "volume": "270884",
+    "marketcap": "140279125",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "297967",
+    "pe": "#N/A",
+    "eps": "-0.48",
+    "high52": "3.63",
+    "low52": "0.9",
+    "change": "0.01",
+    "beta": "-0.16",
+    "changepct": "0.81",
+    "closeyest": "1.24",
+    "shares": "112223000",
+    "currency": "USD",
+    "ticker": "OPTN"
+}

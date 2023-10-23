@@ -1,0 +1,22 @@
+{
+    "price": "20.05",
+    "priceopen": "19.79",
+    "high": "20.05",
+    "low": "19.79",
+    "volume": "15205",
+    "marketcap": "616534426",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "17828",
+    "pe": "5.07",
+    "eps": "3.96",
+    "high52": "25",
+    "low52": "18.71",
+    "change": "0.05",
+    "beta": "#N/A",
+    "changepct": "0.25",
+    "closeyest": "20",
+    "shares": "30750000",
+    "currency": "USD",
+    "ticker": "TXO"
+}

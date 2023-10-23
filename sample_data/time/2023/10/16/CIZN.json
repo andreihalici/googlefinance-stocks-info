@@ -1,0 +1,22 @@
+{
+    "price": "10.11",
+    "priceopen": "10.15",
+    "high": "10.38",
+    "low": "10.1",
+    "volume": "2362",
+    "marketcap": "56782186",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "5951",
+    "pe": "8.73",
+    "eps": "1.16",
+    "high52": "17",
+    "low52": "10.01",
+    "change": "-0.16",
+    "beta": "-0.02",
+    "changepct": "-1.56",
+    "closeyest": "10.27",
+    "shares": "5616000",
+    "currency": "USD",
+    "ticker": "CIZN"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "123.15",
+    "priceopen": "122.81",
+    "high": "124.24",
+    "low": "122.1",
+    "volume": "283528",
+    "marketcap": "15724678874",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "485141",
+    "pe": "12.02",
+    "eps": "10.25",
+    "high52": "138.39",
+    "low52": "87.93",
+    "change": "2.06",
+    "beta": "1.3",
+    "changepct": "1.7",
+    "closeyest": "121.09",
+    "shares": "127687000",
+    "currency": "USD",
+    "ticker": "WLK"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "10.72",
+    "priceopen": "10.73",
+    "high": "10.73",
+    "low": "10.72",
+    "volume": "113644",
+    "marketcap": "138004888",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "53402",
+    "pe": "59.76",
+    "eps": "0.18",
+    "high52": "11.25",
+    "low52": "9.99",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-0.05",
+    "closeyest": "10.73",
+    "shares": "7128000",
+    "currency": "USD",
+    "ticker": "BRD"
+}

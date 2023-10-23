@@ -1,0 +1,22 @@
+{
+    "price": "32.63",
+    "priceopen": "32.03",
+    "high": "33.04",
+    "low": "32",
+    "volume": "2342423",
+    "marketcap": "3577830672",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "660695",
+    "pe": "#N/A",
+    "eps": "-1.07",
+    "high52": "33.04",
+    "low52": "15.61",
+    "change": "2.05",
+    "beta": "0.85",
+    "changepct": "6.7",
+    "closeyest": "30.58",
+    "shares": "109649000",
+    "currency": "USD",
+    "ticker": "VRNS"
+}

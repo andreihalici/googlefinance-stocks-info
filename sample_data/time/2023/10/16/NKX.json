@@ -1,0 +1,22 @@
+{
+    "price": "10.15",
+    "priceopen": "10.23",
+    "high": "10.23",
+    "low": "10.11",
+    "volume": "76861",
+    "marketcap": "482331331",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "118144",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "12.95",
+    "low52": "9.9",
+    "change": "-0.08",
+    "beta": "0.39",
+    "changepct": "-0.78",
+    "closeyest": "10.23",
+    "shares": "47520000",
+    "currency": "USD",
+    "ticker": "NKX"
+}

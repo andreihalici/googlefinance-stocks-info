@@ -1,0 +1,22 @@
+{
+    "price": "1.08",
+    "priceopen": "1.02",
+    "high": "1.1",
+    "low": "1.02",
+    "volume": "4512",
+    "marketcap": "26653396",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "2367",
+    "pe": "#N/A",
+    "eps": "-0.11",
+    "high52": "1.4",
+    "low52": "0.6",
+    "change": "-0.01",
+    "beta": "0.57",
+    "changepct": "-0.92",
+    "closeyest": "1.09",
+    "shares": "20513000",
+    "currency": "USD",
+    "ticker": "ZCMD"
+}

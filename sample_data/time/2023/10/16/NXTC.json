@@ -1,0 +1,22 @@
+{
+    "price": "1.32",
+    "priceopen": "1.26",
+    "high": "1.36",
+    "low": "1.24",
+    "volume": "49886",
+    "marketcap": "36748748",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "42956",
+    "pe": "#N/A",
+    "eps": "-2.53",
+    "high52": "2.86",
+    "low52": "1.16",
+    "change": "0.07",
+    "beta": "0.14",
+    "changepct": "5.6",
+    "closeyest": "1.25",
+    "shares": "27840000",
+    "currency": "USD",
+    "ticker": "NXTC"
+}

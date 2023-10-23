@@ -1,0 +1,22 @@
+{
+    "price": "23.74",
+    "priceopen": "23.33",
+    "high": "23.74",
+    "low": "23.33",
+    "volume": "131",
+    "marketcap": "42205762",
+    "tradetime": "10/13/2023 13:05:45",
+    "datadelay": "0",
+    "volumeavg": "1264",
+    "pe": "13.62",
+    "eps": "1.73",
+    "high52": "27",
+    "low52": "19.76",
+    "change": "0.24",
+    "beta": "#N/A",
+    "changepct": "1.02",
+    "closeyest": "23.5",
+    "shares": "404000",
+    "currency": "USD",
+    "ticker": "PXSAP"
+}

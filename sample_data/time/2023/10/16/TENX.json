@@ -1,0 +1,22 @@
+{
+    "price": "0.31",
+    "priceopen": "0.32",
+    "high": "0.33",
+    "low": "0.3",
+    "volume": "295168",
+    "marketcap": "7166673",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "341998",
+    "pe": "#N/A",
+    "eps": "-45.75",
+    "high52": "4.3",
+    "low52": "0.25",
+    "change": "-0.01",
+    "beta": "2.06",
+    "changepct": "-3.14",
+    "closeyest": "0.32",
+    "shares": "23862000",
+    "currency": "USD",
+    "ticker": "TENX"
+}

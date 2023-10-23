@@ -1,0 +1,22 @@
+{
+    "price": "8",
+    "priceopen": "8.06",
+    "high": "8.06",
+    "low": "7.99",
+    "volume": "39504",
+    "marketcap": "197383440",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "93456",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "9.36",
+    "low52": "7.95",
+    "change": "-0.07",
+    "beta": "0.39",
+    "changepct": "-0.87",
+    "closeyest": "8.07",
+    "shares": "24673000",
+    "currency": "USD",
+    "ticker": "EVM"
+}

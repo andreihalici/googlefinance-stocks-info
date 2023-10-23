@@ -1,0 +1,22 @@
+{
+    "price": "10.5",
+    "priceopen": "10.5",
+    "high": "10.5",
+    "low": "10.47",
+    "volume": "103",
+    "marketcap": "278781300",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "421138",
+    "pe": "37.48",
+    "eps": "0.28",
+    "high52": "11.32",
+    "low52": "9.78",
+    "change": "-0.02",
+    "beta": "#N/A",
+    "changepct": "-0.19",
+    "closeyest": "10.52",
+    "shares": "21240000",
+    "currency": "USD",
+    "ticker": "CDAQ"
+}

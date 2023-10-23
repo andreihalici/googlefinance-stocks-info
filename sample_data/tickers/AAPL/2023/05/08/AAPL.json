@@ -1,0 +1,22 @@
+{
+    "price": "173.5",
+    "priceopen": "172.48",
+    "high": "173.85",
+    "low": "172.11",
+    "volume": "51993302",
+    "marketcap": "2745106590000",
+    "tradetime": "5/8/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "55256518",
+    "pe": "29.48",
+    "eps": "5.89",
+    "high52": "176.15",
+    "low52": "124.17",
+    "change": "-0.07",
+    "beta": "1.29",
+    "changepct": "-0.04",
+    "closeyest": "173.57",
+    "shares": "15821950000",
+    "currency": "USD",
+    "ticker": "AAPL"
+}

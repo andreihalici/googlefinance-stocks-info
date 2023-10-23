@@ -1,0 +1,22 @@
+{
+    "price": "11.1",
+    "priceopen": "10.99",
+    "high": "11.15",
+    "low": "10.77",
+    "volume": "104425",
+    "marketcap": "258957680",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "61325",
+    "pe": "5.16",
+    "eps": "2.15",
+    "high52": "18.84",
+    "low52": "10.72",
+    "change": "0.22",
+    "beta": "0.99",
+    "changepct": "2.02",
+    "closeyest": "10.88",
+    "shares": "23330000",
+    "currency": "USD",
+    "ticker": "CARE"
+}

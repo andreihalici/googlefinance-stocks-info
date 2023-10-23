@@ -1,0 +1,22 @@
+{
+    "price": "42.56",
+    "priceopen": "42.25",
+    "high": "42.66",
+    "low": "42.24",
+    "volume": "40266",
+    "marketcap": "566119093",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "37148",
+    "pe": "11.68",
+    "eps": "3.64",
+    "high52": "54.53",
+    "low52": "29.91",
+    "change": "0.56",
+    "beta": "1.09",
+    "changepct": "1.33",
+    "closeyest": "42",
+    "shares": "13302000",
+    "currency": "USD",
+    "ticker": "CCB"
+}

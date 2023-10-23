@@ -1,0 +1,22 @@
+{
+    "price": "10.54",
+    "priceopen": "10.02",
+    "high": "10.62",
+    "low": "10.02",
+    "volume": "11836118",
+    "marketcap": "4070947451",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "10399169",
+    "pe": "#N/A",
+    "eps": "-3.6",
+    "high52": "18.36",
+    "low52": "7.85",
+    "change": "0.47",
+    "beta": "1.78",
+    "changepct": "4.67",
+    "closeyest": "10.07",
+    "shares": "377635000",
+    "currency": "USD",
+    "ticker": "LYFT"
+}

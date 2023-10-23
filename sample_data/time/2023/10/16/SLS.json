@@ -1,0 +1,22 @@
+{
+    "price": "1.27",
+    "priceopen": "1.25",
+    "high": "1.27",
+    "low": "1.15",
+    "volume": "913452",
+    "marketcap": "36001857",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "467835",
+    "pe": "#N/A",
+    "eps": "-1.56",
+    "high52": "5.58",
+    "low52": "1.03",
+    "change": "-0.03",
+    "beta": "2.23",
+    "changepct": "-2.31",
+    "closeyest": "1.3",
+    "shares": "28348000",
+    "currency": "USD",
+    "ticker": "SLS"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "25",
+    "priceopen": "#N/A",
+    "high": "25",
+    "low": "25",
+    "volume": "42",
+    "marketcap": "#N/A",
+    "tradetime": "10/13/2023 14:59:55",
+    "datadelay": "0",
+    "volumeavg": "473",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "27.9",
+    "low52": "24.22",
+    "change": "-0.39",
+    "beta": "#N/A",
+    "changepct": "-1.54",
+    "closeyest": "25.39",
+    "shares": "30000",
+    "currency": "USD",
+    "ticker": "AMDS"
+}

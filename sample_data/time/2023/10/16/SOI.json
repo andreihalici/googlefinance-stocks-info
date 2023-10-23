@@ -1,0 +1,22 @@
+{
+    "price": "10.2",
+    "priceopen": "10.32",
+    "high": "10.43",
+    "low": "10.16",
+    "volume": "138894",
+    "marketcap": "450321831",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "165615",
+    "pe": "12.12",
+    "eps": "0.84",
+    "high52": "13.75",
+    "low52": "7.15",
+    "change": "-0.05",
+    "beta": "1.48",
+    "changepct": "-0.49",
+    "closeyest": "10.25",
+    "shares": "30477000",
+    "currency": "USD",
+    "ticker": "SOI"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "0.28",
+    "priceopen": "0.26",
+    "high": "0.3",
+    "low": "0.25",
+    "volume": "138366",
+    "marketcap": "5983891",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "53517",
+    "pe": "1.84",
+    "eps": "0.15",
+    "high52": "0.98",
+    "low52": "0.25",
+    "change": "-0.03",
+    "beta": "#N/A",
+    "changepct": "-9.06",
+    "closeyest": "0.31",
+    "shares": "21227000",
+    "currency": "USD",
+    "ticker": "OCG"
+}

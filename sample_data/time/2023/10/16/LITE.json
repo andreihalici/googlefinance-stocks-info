@@ -1,0 +1,22 @@
+{
+    "price": "42.16",
+    "priceopen": "41.63",
+    "high": "42.67",
+    "low": "41.51",
+    "volume": "1316108",
+    "marketcap": "2824711557",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "1214974",
+    "pe": "#N/A",
+    "eps": "-1.93",
+    "high52": "75.56",
+    "low52": "40.27",
+    "change": "0.74",
+    "beta": "1.08",
+    "changepct": "1.79",
+    "closeyest": "41.42",
+    "shares": "67000000",
+    "currency": "USD",
+    "ticker": "LITE"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "0.6",
+    "priceopen": "0.6",
+    "high": "0.62",
+    "low": "0.59",
+    "volume": "67515",
+    "marketcap": "93779763",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "15",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "-0.05",
+    "high52": "1.5",
+    "low52": "0.53",
+    "change": "0.01",
+    "beta": "2.55",
+    "changepct": "1.69",
+    "closeyest": "0.59",
+    "shares": "156947000",
+    "currency": "CAD",
+    "ticker": "APM"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "42.99",
+    "priceopen": "43.08",
+    "high": "43.09",
+    "low": "42.23",
+    "volume": "19848",
+    "marketcap": "#N/A",
+    "tradetime": "10/16/2023 18:30:00",
+    "datadelay": "0",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "50.45",
+    "low52": "30.61",
+    "change": "0.69",
+    "beta": "#N/A",
+    "changepct": "1.63",
+    "closeyest": "42.3",
+    "shares": "3225000",
+    "currency": "USD",
+    "ticker": "DIG"
+}

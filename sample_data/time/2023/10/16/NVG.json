@@ -1,0 +1,22 @@
+{
+    "price": "10.2",
+    "priceopen": "10.31",
+    "high": "10.32",
+    "low": "10.2",
+    "volume": "589559",
+    "marketcap": "2177928439",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "658438",
+    "pe": "#N/A",
+    "eps": "-0.24",
+    "high52": "12.84",
+    "low52": "10.09",
+    "change": "-0.11",
+    "beta": "0.52",
+    "changepct": "-1.07",
+    "closeyest": "10.31",
+    "shares": "213522000",
+    "currency": "USD",
+    "ticker": "NVG"
+}

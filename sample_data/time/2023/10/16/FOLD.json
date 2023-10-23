@@ -1,0 +1,22 @@
+{
+    "price": "10.56",
+    "priceopen": "10.49",
+    "high": "10.68",
+    "low": "10.23",
+    "volume": "1456609",
+    "marketcap": "3031995768",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "2429802",
+    "pe": "#N/A",
+    "eps": "-0.64",
+    "high52": "14.1",
+    "low52": "9.1",
+    "change": "0.12",
+    "beta": "0.86",
+    "changepct": "1.15",
+    "closeyest": "10.44",
+    "shares": "287121000",
+    "currency": "USD",
+    "ticker": "FOLD"
+}

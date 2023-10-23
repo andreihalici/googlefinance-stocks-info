@@ -1,0 +1,22 @@
+{
+    "price": "11.12",
+    "priceopen": "11.37",
+    "high": "11.49",
+    "low": "10.75",
+    "volume": "564818",
+    "marketcap": "201572905",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "485169",
+    "pe": "1577.3",
+    "eps": "0.01",
+    "high52": "24.28",
+    "low52": "10.75",
+    "change": "-0.13",
+    "beta": "1.54",
+    "changepct": "-1.16",
+    "closeyest": "11.25",
+    "shares": "18127000",
+    "currency": "USD",
+    "ticker": "RMAX"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "9.11",
+    "priceopen": "8.9",
+    "high": "9.19",
+    "low": "8.86",
+    "volume": "335740",
+    "marketcap": "606041451",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "396742",
+    "pe": "#N/A",
+    "eps": "-0.64",
+    "high52": "14.97",
+    "low52": "7.37",
+    "change": "0.28",
+    "beta": "1.43",
+    "changepct": "3.17",
+    "closeyest": "8.83",
+    "shares": "66525000",
+    "currency": "USD",
+    "ticker": "MERC"
+}

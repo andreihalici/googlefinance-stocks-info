@@ -1,0 +1,22 @@
+{
+    "price": "0.75",
+    "priceopen": "0.82",
+    "high": "0.82",
+    "low": "0.75",
+    "volume": "13246",
+    "marketcap": "7544463",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "15483",
+    "pe": "#N/A",
+    "eps": "-0.26",
+    "high52": "1.45",
+    "low52": "0.74",
+    "change": "-0.04",
+    "beta": "0.48",
+    "changepct": "-4.7",
+    "closeyest": "0.79",
+    "shares": "10061000",
+    "currency": "USD",
+    "ticker": "FORD"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "34.98",
+    "priceopen": "35.28",
+    "high": "35.45",
+    "low": "34.61",
+    "volume": "498902",
+    "marketcap": "2243810610",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "394143",
+    "pe": "#N/A",
+    "eps": "-2.49",
+    "high52": "43.75",
+    "low52": "31.79",
+    "change": "-0.16",
+    "beta": "1.37",
+    "changepct": "-0.46",
+    "closeyest": "35.14",
+    "shares": "64146000",
+    "currency": "USD",
+    "ticker": "XENE"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "10.17",
+    "priceopen": "10.4",
+    "high": "10.4",
+    "low": "9.99",
+    "volume": "137794",
+    "marketcap": "211409588",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "56027",
+    "pe": "29.77",
+    "eps": "0.34",
+    "high52": "10.5",
+    "low52": "4.98",
+    "change": "0.05",
+    "beta": "1.27",
+    "changepct": "0.49",
+    "closeyest": "10.12",
+    "shares": "20788000",
+    "currency": "USD",
+    "ticker": "MRAM"
+}

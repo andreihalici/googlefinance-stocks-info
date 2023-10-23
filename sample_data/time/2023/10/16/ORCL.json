@@ -1,0 +1,22 @@
+{
+    "price": "108.71",
+    "priceopen": "108.95",
+    "high": "109.59",
+    "low": "108.31",
+    "volume": "5487985",
+    "marketcap": "297797562452",
+    "tradetime": "10/16/2023 16:01:29",
+    "datadelay": "0",
+    "volumeavg": "12858600",
+    "pe": "32.33",
+    "eps": "3.36",
+    "high52": "127.54",
+    "low52": "65.78",
+    "change": "0.46",
+    "beta": "1.03",
+    "changepct": "0.42",
+    "closeyest": "108.25",
+    "shares": "2739376000",
+    "currency": "USD",
+    "ticker": "ORCL"
+}

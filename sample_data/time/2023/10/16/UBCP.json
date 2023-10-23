@@ -1,0 +1,22 @@
+{
+    "price": "10.25",
+    "priceopen": "10.72",
+    "high": "11",
+    "low": "10.25",
+    "volume": "6468",
+    "marketcap": "58325072",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "2916",
+    "pe": "6.73",
+    "eps": "1.52",
+    "high52": "16",
+    "low52": "10.2",
+    "change": "-0.19",
+    "beta": "0.25",
+    "changepct": "-1.82",
+    "closeyest": "10.44",
+    "shares": "5690000",
+    "currency": "USD",
+    "ticker": "UBCP"
+}

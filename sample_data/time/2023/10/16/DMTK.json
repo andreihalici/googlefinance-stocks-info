@@ -1,0 +1,22 @@
+{
+    "price": "1.34",
+    "priceopen": "1.2",
+    "high": "1.34",
+    "low": "1.15",
+    "volume": "345610",
+    "marketcap": "45129968",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "268271",
+    "pe": "#N/A",
+    "eps": "-3.9",
+    "high52": "6.44",
+    "low52": "1.15",
+    "change": "0.12",
+    "beta": "2.31",
+    "changepct": "9.84",
+    "closeyest": "1.22",
+    "shares": "33679000",
+    "currency": "USD",
+    "ticker": "DMTK"
+}

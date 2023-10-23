@@ -1,0 +1,22 @@
+{
+    "price": "14.65",
+    "priceopen": "15.25",
+    "high": "15.35",
+    "low": "14.52",
+    "volume": "678884",
+    "marketcap": "864296065",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "653305",
+    "pe": "#N/A",
+    "eps": "-2.97",
+    "high52": "29.52",
+    "low52": "14.42",
+    "change": "-0.58",
+    "beta": "1.66",
+    "changepct": "-3.81",
+    "closeyest": "15.23",
+    "shares": "58996000",
+    "currency": "USD",
+    "ticker": "REPL"
+}

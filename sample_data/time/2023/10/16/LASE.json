@@ -1,0 +1,22 @@
+{
+    "price": "1.23",
+    "priceopen": "1.3",
+    "high": "1.3",
+    "low": "1.21",
+    "volume": "71294",
+    "marketcap": "10151703",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "54261",
+    "pe": "#N/A",
+    "eps": "-0.39",
+    "high52": "7.23",
+    "low52": "1.21",
+    "change": "-0.04",
+    "beta": "#N/A",
+    "changepct": "-3.15",
+    "closeyest": "1.27",
+    "shares": "8253000",
+    "currency": "USD",
+    "ticker": "LASE"
+}

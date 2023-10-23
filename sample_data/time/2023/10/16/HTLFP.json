@@ -1,0 +1,22 @@
+{
+    "price": "23",
+    "priceopen": "23.94",
+    "high": "24",
+    "low": "23",
+    "volume": "6426",
+    "marketcap": "1254346492",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "4795",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "26.55",
+    "low52": "18.53",
+    "change": "-0.5",
+    "beta": "0.19",
+    "changepct": "-2.13",
+    "closeyest": "23.5",
+    "shares": "4600000",
+    "currency": "USD",
+    "ticker": "HTLFP"
+}

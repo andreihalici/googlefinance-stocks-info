@@ -1,0 +1,22 @@
+{
+    "price": "25.23",
+    "priceopen": "25.17",
+    "high": "25.23",
+    "low": "25.17",
+    "volume": "121",
+    "marketcap": "#N/A",
+    "tradetime": "10/16/2023 18:30:00",
+    "datadelay": "0",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "25.8",
+    "low52": "24.07",
+    "change": "0.29",
+    "beta": "#N/A",
+    "changepct": "1.15",
+    "closeyest": "24.94",
+    "shares": "1050000",
+    "currency": "USD",
+    "ticker": "CPI"
+}

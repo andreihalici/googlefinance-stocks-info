@@ -1,0 +1,22 @@
+{
+    "price": "10.07",
+    "priceopen": "10.08",
+    "high": "10.12",
+    "low": "10.06",
+    "volume": "61403",
+    "marketcap": "376450121",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "64058",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "12.01",
+    "low52": "9.91",
+    "change": "-0.05",
+    "beta": "0.38",
+    "changepct": "-0.49",
+    "closeyest": "10.12",
+    "shares": "37383000",
+    "currency": "USD",
+    "ticker": "NQP"
+}

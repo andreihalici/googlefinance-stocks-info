@@ -1,0 +1,22 @@
+{
+    "price": "10.19",
+    "priceopen": "10.2",
+    "high": "10.2",
+    "low": "10.19",
+    "volume": "1213",
+    "marketcap": "301089929",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "175728",
+    "pe": "22.06",
+    "eps": "0.41",
+    "high52": "10.25",
+    "low52": "10.16",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-0.05",
+    "closeyest": "10.2",
+    "shares": "31750000",
+    "currency": "USD",
+    "ticker": "HYAC"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "11.59",
+    "priceopen": "11.83",
+    "high": "11.83",
+    "low": "11.55",
+    "volume": "202948",
+    "marketcap": "235744196",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "126789",
+    "pe": "#N/A",
+    "eps": "-0.06",
+    "high52": "12.46",
+    "low52": "10.29",
+    "change": "-0.22",
+    "beta": "0.75",
+    "changepct": "-1.86",
+    "closeyest": "11.81",
+    "shares": "20340000",
+    "currency": "USD",
+    "ticker": "KIO"
+}

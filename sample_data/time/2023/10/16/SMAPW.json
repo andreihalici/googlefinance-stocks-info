@@ -1,0 +1,22 @@
+{
+    "price": "0.05",
+    "priceopen": "0.04",
+    "high": "0.05",
+    "low": "0.04",
+    "volume": "500",
+    "marketcap": "55582600",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "2482",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "0.34",
+    "low52": "0.02",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-12.76",
+    "closeyest": "0.06",
+    "shares": "#N/A",
+    "currency": "USD",
+    "ticker": "SMAPW"
+}

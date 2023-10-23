@@ -1,0 +1,22 @@
+{
+    "price": "11.8",
+    "priceopen": "12.01",
+    "high": "12.01",
+    "low": "11.8",
+    "volume": "787",
+    "marketcap": "72864623",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "995",
+    "pe": "140.36",
+    "eps": "0.08",
+    "high52": "13.06",
+    "low52": "10.31",
+    "change": "0.28",
+    "beta": "#N/A",
+    "changepct": "2.43",
+    "closeyest": "11.52",
+    "shares": "3803000",
+    "currency": "USD",
+    "ticker": "MAQC"
+}

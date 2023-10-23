@@ -1,0 +1,22 @@
+{
+    "price": "1.2",
+    "priceopen": "1.21",
+    "high": "1.23",
+    "low": "1.19",
+    "volume": "227023",
+    "marketcap": "137154125",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "398797",
+    "pe": "#N/A",
+    "eps": "-0.23",
+    "high52": "2.5",
+    "low52": "0.94",
+    "change": "-0.01",
+    "beta": "2.45",
+    "changepct": "-0.83",
+    "closeyest": "1.21",
+    "shares": "114295000",
+    "currency": "USD",
+    "ticker": "KOPN"
+}

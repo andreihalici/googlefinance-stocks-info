@@ -1,0 +1,22 @@
+{
+    "price": "100.9",
+    "priceopen": "99.8",
+    "high": "101.35",
+    "low": "98.11",
+    "volume": "1209408",
+    "marketcap": "17458545644",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "1176118",
+    "pe": "29.87",
+    "eps": "3.38",
+    "high52": "172.65",
+    "low52": "95.21",
+    "change": "2.02",
+    "beta": "0.96",
+    "changepct": "2.04",
+    "closeyest": "98.88",
+    "shares": "173028000",
+    "currency": "USD",
+    "ticker": "ARE"
+}

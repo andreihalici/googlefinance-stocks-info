@@ -1,0 +1,22 @@
+{
+    "price": "42.19",
+    "priceopen": "41.66",
+    "high": "42.27",
+    "low": "41",
+    "volume": "3698550",
+    "marketcap": "12963526804",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "3999298",
+    "pe": "8.96",
+    "eps": "4.71",
+    "high52": "50.58",
+    "low52": "30.67",
+    "change": "0.94",
+    "beta": "3.54",
+    "changepct": "2.28",
+    "closeyest": "41.25",
+    "shares": "307265000",
+    "currency": "USD",
+    "ticker": "APA"
+}

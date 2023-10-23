@@ -1,0 +1,22 @@
+{
+    "price": "10.44",
+    "priceopen": "10.46",
+    "high": "10.46",
+    "low": "10.44",
+    "volume": "35489",
+    "marketcap": "84167568",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "51330",
+    "pe": "32.31",
+    "eps": "0.32",
+    "high52": "12.09",
+    "low52": "9.92",
+    "change": "-0.02",
+    "beta": "#N/A",
+    "changepct": "-0.19",
+    "closeyest": "10.46",
+    "shares": "5312000",
+    "currency": "USD",
+    "ticker": "BHAC"
+}

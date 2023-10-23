@@ -1,0 +1,22 @@
+{
+    "price": "23.24",
+    "priceopen": "22.74",
+    "high": "23.74",
+    "low": "22.74",
+    "volume": "20334",
+    "marketcap": "257638637",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "12708",
+    "pe": "7.41",
+    "eps": "3.14",
+    "high52": "32.05",
+    "low52": "22.39",
+    "change": "0.01",
+    "beta": "0.54",
+    "changepct": "0.04",
+    "closeyest": "23.23",
+    "shares": "11086000",
+    "currency": "USD",
+    "ticker": "FNLC"
+}

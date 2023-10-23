@@ -1,0 +1,22 @@
+{
+    "price": "10.63",
+    "priceopen": "10.67",
+    "high": "10.67",
+    "low": "10.63",
+    "volume": "2",
+    "marketcap": "67936992",
+    "tradetime": "10/13/2023 10:23:45",
+    "datadelay": "0",
+    "volumeavg": "7675",
+    "pe": "77.25",
+    "eps": "0.14",
+    "high52": "11.48",
+    "low52": "10.05",
+    "change": "-0.02",
+    "beta": "#N/A",
+    "changepct": "-0.19",
+    "closeyest": "10.65",
+    "shares": "9034000",
+    "currency": "USD",
+    "ticker": "ATMC"
+}

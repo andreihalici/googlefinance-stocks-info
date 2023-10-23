@@ -1,0 +1,22 @@
+{
+    "price": "3.14",
+    "priceopen": "3.06",
+    "high": "3.17",
+    "low": "2.91",
+    "volume": "2278787",
+    "marketcap": "367326010",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "861382",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "6.84",
+    "low52": "1.36",
+    "change": "0.28",
+    "beta": "3.7",
+    "changepct": "9.79",
+    "closeyest": "2.86",
+    "shares": "85562000",
+    "currency": "USD",
+    "ticker": "HIVE"
+}

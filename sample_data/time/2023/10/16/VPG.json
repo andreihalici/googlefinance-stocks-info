@@ -1,0 +1,22 @@
+{
+    "price": "32.32",
+    "priceopen": "31.37",
+    "high": "32.49",
+    "low": "31.37",
+    "volume": "64488",
+    "marketcap": "439685800",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "36973",
+    "pe": "12.95",
+    "eps": "2.5",
+    "high52": "45.69",
+    "low52": "31.03",
+    "change": "1.14",
+    "beta": "1.28",
+    "changepct": "3.66",
+    "closeyest": "31.18",
+    "shares": "12581000",
+    "currency": "USD",
+    "ticker": "VPG"
+}

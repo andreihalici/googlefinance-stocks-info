@@ -1,0 +1,22 @@
+{
+    "price": "1.4",
+    "priceopen": "1.55",
+    "high": "1.55",
+    "low": "1.22",
+    "volume": "112118",
+    "marketcap": "4352311",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "28295",
+    "pe": "#N/A",
+    "eps": "-1.62",
+    "high52": "6.56",
+    "low52": "1.22",
+    "change": "-0.15",
+    "beta": "-0.21",
+    "changepct": "-9.68",
+    "closeyest": "1.55",
+    "shares": "3109000",
+    "currency": "USD",
+    "ticker": "SILO"
+}

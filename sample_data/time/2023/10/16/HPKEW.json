@@ -1,0 +1,22 @@
+{
+    "price": "10",
+    "priceopen": "10.01",
+    "high": "10.01",
+    "low": "8.56",
+    "volume": "1100",
+    "marketcap": "2233608087",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "3060",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "23.01",
+    "low52": "3.23",
+    "change": "1.1",
+    "beta": "1.44",
+    "changepct": "12.36",
+    "closeyest": "8.9",
+    "shares": "#N/A",
+    "currency": "USD",
+    "ticker": "HPKEW"
+}

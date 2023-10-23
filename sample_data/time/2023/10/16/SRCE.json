@@ -1,0 +1,22 @@
+{
+    "price": "42.51",
+    "priceopen": "42.11",
+    "high": "42.54",
+    "low": "42.11",
+    "volume": "24646",
+    "marketcap": "1049481312",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "42483",
+    "pe": "8.31",
+    "eps": "5.12",
+    "high52": "59.94",
+    "low52": "38.77",
+    "change": "0.7",
+    "beta": "0.92",
+    "changepct": "1.67",
+    "closeyest": "41.81",
+    "shares": "24688000",
+    "currency": "USD",
+    "ticker": "SRCE"
+}

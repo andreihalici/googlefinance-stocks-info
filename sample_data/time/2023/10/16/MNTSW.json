@@ -1,0 +1,22 @@
+{
+    "price": "0.04",
+    "priceopen": "0.03",
+    "high": "0.05",
+    "low": "0.03",
+    "volume": "131789",
+    "marketcap": "13065836",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "72471",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "0.2",
+    "low52": "0.01",
+    "change": "0.02",
+    "beta": "0.36",
+    "changepct": "102.25",
+    "closeyest": "0.02",
+    "shares": "#N/A",
+    "currency": "USD",
+    "ticker": "MNTSW"
+}

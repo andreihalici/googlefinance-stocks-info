@@ -1,0 +1,22 @@
+{
+    "price": "10.08",
+    "priceopen": "10.06",
+    "high": "10.12",
+    "low": "10.06",
+    "volume": "34880",
+    "marketcap": "84014370",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "29676",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "11.12",
+    "low52": "9.82",
+    "change": "0.02",
+    "beta": "0.75",
+    "changepct": "0.2",
+    "closeyest": "10.06",
+    "shares": "8335000",
+    "currency": "USD",
+    "ticker": "HNW"
+}

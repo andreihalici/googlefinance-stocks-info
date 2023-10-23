@@ -1,0 +1,22 @@
+{
+    "price": "23.32",
+    "priceopen": "23.32",
+    "high": "23.32",
+    "low": "23.32",
+    "volume": "500",
+    "marketcap": "10790967123",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "7723",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "25.11",
+    "low52": "21.93",
+    "change": "-0.06",
+    "beta": "0.69",
+    "changepct": "-0.26",
+    "closeyest": "23.38",
+    "shares": "4600000",
+    "currency": "USD",
+    "ticker": "REGCP"
+}

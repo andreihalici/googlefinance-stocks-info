@@ -1,0 +1,22 @@
+{
+    "price": "10.13",
+    "priceopen": "10.1",
+    "high": "10.2",
+    "low": "10.1",
+    "volume": "34400",
+    "marketcap": "278288628",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "71606",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "12.01",
+    "low52": "9.57",
+    "change": "0",
+    "beta": "1.13",
+    "changepct": "0",
+    "closeyest": "10.13",
+    "shares": "27368000",
+    "currency": "USD",
+    "ticker": "FOF"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "103.33",
+    "priceopen": "103.01",
+    "high": "103.73",
+    "low": "101.53",
+    "volume": "1058077",
+    "marketcap": "15565869134",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "1191736",
+    "pe": "7.98",
+    "eps": "12.94",
+    "high52": "116.59",
+    "low52": "86.58",
+    "change": "1.16",
+    "beta": "0.69",
+    "changepct": "1.14",
+    "closeyest": "102.17",
+    "shares": "150642000",
+    "currency": "USD",
+    "ticker": "BG"
+}

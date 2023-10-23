@@ -1,0 +1,22 @@
+{
+    "price": "12.71",
+    "priceopen": "12.64",
+    "high": "12.73",
+    "low": "12.64",
+    "volume": "50603",
+    "marketcap": "40604611",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "13488",
+    "pe": "#N/A",
+    "eps": "-0.08",
+    "high52": "12.73",
+    "low52": "4.9",
+    "change": "0.07",
+    "beta": "0.55",
+    "changepct": "0.55",
+    "closeyest": "12.64",
+    "shares": "3195000",
+    "currency": "USD",
+    "ticker": "PFIN"
+}

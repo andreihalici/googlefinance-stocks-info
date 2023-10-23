@@ -1,0 +1,22 @@
+{
+    "price": "3.16",
+    "priceopen": "3.16",
+    "high": "3.17",
+    "low": "3.11",
+    "volume": "3341",
+    "marketcap": "156223578",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "39275",
+    "pe": "#N/A",
+    "eps": "-0.5",
+    "high52": "4.75",
+    "low52": "2.89",
+    "change": "-0.01",
+    "beta": "1.14",
+    "changepct": "-0.16",
+    "closeyest": "3.16",
+    "shares": "49835000",
+    "currency": "USD",
+    "ticker": "GNFT"
+}

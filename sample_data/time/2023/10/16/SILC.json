@@ -1,0 +1,22 @@
+{
+    "price": "23.02",
+    "priceopen": "22.58",
+    "high": "23.53",
+    "low": "22.51",
+    "volume": "26355",
+    "marketcap": "155529798",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "19916",
+    "pe": "8.28",
+    "eps": "2.78",
+    "high52": "50",
+    "low52": "22.45",
+    "change": "0.55",
+    "beta": "0.88",
+    "changepct": "2.45",
+    "closeyest": "22.47",
+    "shares": "6756000",
+    "currency": "USD",
+    "ticker": "SILC"
+}

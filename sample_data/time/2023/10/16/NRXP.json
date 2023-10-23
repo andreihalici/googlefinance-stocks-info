@@ -1,0 +1,22 @@
+{
+    "price": "0.3",
+    "priceopen": "0.28",
+    "high": "0.3",
+    "low": "0.27",
+    "volume": "413495",
+    "marketcap": "24298948",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "1246040",
+    "pe": "#N/A",
+    "eps": "-0.57",
+    "high52": "1.54",
+    "low52": "0.22",
+    "change": "0.02",
+    "beta": "0.81",
+    "changepct": "8",
+    "closeyest": "0.28",
+    "shares": "83244000",
+    "currency": "USD",
+    "ticker": "NRXP"
+}

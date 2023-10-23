@@ -1,0 +1,22 @@
+{
+    "price": "1.4",
+    "priceopen": "1.27",
+    "high": "1.47",
+    "low": "1.27",
+    "volume": "223372",
+    "marketcap": "7194632",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "126105",
+    "pe": "#N/A",
+    "eps": "-25.89",
+    "high52": "19.06",
+    "low52": "0.86",
+    "change": "0.11",
+    "beta": "0.2",
+    "changepct": "8.33",
+    "closeyest": "1.29",
+    "shares": "5148000",
+    "currency": "USD",
+    "ticker": "WINT"
+}

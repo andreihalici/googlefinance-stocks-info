@@ -1,0 +1,22 @@
+{
+    "price": "10",
+    "priceopen": "10.38",
+    "high": "10.38",
+    "low": "9.97",
+    "volume": "224377",
+    "marketcap": "492015400",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "384943",
+    "pe": "#N/A",
+    "eps": "-1.46",
+    "high52": "14.92",
+    "low52": "4.82",
+    "change": "-0.26",
+    "beta": "1.28",
+    "changepct": "-2.53",
+    "closeyest": "10.26",
+    "shares": "49202000",
+    "currency": "USD",
+    "ticker": "ALPN"
+}

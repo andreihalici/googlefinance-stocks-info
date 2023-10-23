@@ -1,0 +1,22 @@
+{
+    "price": "23.88",
+    "priceopen": "23.34",
+    "high": "24.37",
+    "low": "23.14",
+    "volume": "458525",
+    "marketcap": "2478471680",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "793803",
+    "pe": "#N/A",
+    "eps": "-0.82",
+    "high52": "30.94",
+    "low52": "17.11",
+    "change": "0.52",
+    "beta": "0.6",
+    "changepct": "2.23",
+    "closeyest": "23.36",
+    "shares": "103789000",
+    "currency": "USD",
+    "ticker": "FROG"
+}

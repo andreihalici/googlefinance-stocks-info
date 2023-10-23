@@ -1,0 +1,22 @@
+{
+    "price": "10.62",
+    "priceopen": "10.62",
+    "high": "10.62",
+    "low": "10.62",
+    "volume": "100435",
+    "marketcap": "265436808",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "46786",
+    "pe": "58.82",
+    "eps": "0.18",
+    "high52": "11.54",
+    "low52": "9.88",
+    "change": "-0.02",
+    "beta": "#N/A",
+    "changepct": "-0.19",
+    "closeyest": "10.64",
+    "shares": "19995000",
+    "currency": "USD",
+    "ticker": "SEDA"
+}

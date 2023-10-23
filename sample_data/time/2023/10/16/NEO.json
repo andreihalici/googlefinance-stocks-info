@@ -1,0 +1,22 @@
+{
+    "price": "12.65",
+    "priceopen": "12.6",
+    "high": "12.75",
+    "low": "12.25",
+    "volume": "646715",
+    "marketcap": "1613528956",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "840790",
+    "pe": "#N/A",
+    "eps": "-0.92",
+    "high52": "20.54",
+    "low52": "6",
+    "change": "0.15",
+    "beta": "1.13",
+    "changepct": "1.2",
+    "closeyest": "12.5",
+    "shares": "127552000",
+    "currency": "USD",
+    "ticker": "NEO"
+}

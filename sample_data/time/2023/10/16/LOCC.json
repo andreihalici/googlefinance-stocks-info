@@ -1,0 +1,22 @@
+{
+    "price": "10.36",
+    "priceopen": "10.35",
+    "high": "10.37",
+    "low": "10.35",
+    "volume": "506485",
+    "marketcap": "200303030",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "1005715",
+    "pe": "58.57",
+    "eps": "0.18",
+    "high52": "10.9",
+    "low52": "9.73",
+    "change": "0.01",
+    "beta": "#N/A",
+    "changepct": "0.1",
+    "closeyest": "10.35",
+    "shares": "20000000",
+    "currency": "USD",
+    "ticker": "LOCC"
+}

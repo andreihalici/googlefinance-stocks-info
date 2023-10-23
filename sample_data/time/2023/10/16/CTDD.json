@@ -1,0 +1,22 @@
+{
+    "price": "12.5",
+    "priceopen": "12.56",
+    "high": "12.67",
+    "low": "12.16",
+    "volume": "28898",
+    "marketcap": "30",
+    "tradetime": "10/16/2023 16:00:05",
+    "datadelay": "0",
+    "volumeavg": "107250",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "22.8",
+    "low52": "10.45",
+    "change": "-0.02",
+    "beta": "0.46",
+    "changepct": "-0.16",
+    "closeyest": "12.52",
+    "shares": "26400000",
+    "currency": "USD",
+    "ticker": "CTDD"
+}

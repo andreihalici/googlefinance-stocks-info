@@ -1,0 +1,22 @@
+{
+    "price": "11.23",
+    "priceopen": "11.15",
+    "high": "11.26",
+    "low": "11.15",
+    "volume": "39491",
+    "marketcap": "239285124",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "49386",
+    "pe": "#N/A",
+    "eps": "-0.76",
+    "high52": "13.3",
+    "low52": "11",
+    "change": "0.02",
+    "beta": "0.32",
+    "changepct": "0.18",
+    "closeyest": "11.21",
+    "shares": "21304000",
+    "currency": "USD",
+    "ticker": "BKT"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "5.5",
+    "priceopen": "5.43",
+    "high": "5.55",
+    "low": "5.31",
+    "volume": "124759",
+    "marketcap": "117700000",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "291500",
+    "pe": "2.3",
+    "eps": "2.39",
+    "high52": "15.35",
+    "low52": "4.52",
+    "change": "0.08",
+    "beta": "0.29",
+    "changepct": "1.48",
+    "closeyest": "5.42",
+    "shares": "21400000",
+    "currency": "USD",
+    "ticker": "BPT"
+}

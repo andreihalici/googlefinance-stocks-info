@@ -1,0 +1,22 @@
+{
+    "price": "10.2",
+    "priceopen": "10.18",
+    "high": "10.24",
+    "low": "10.01",
+    "volume": "1083435",
+    "marketcap": "1441801593",
+    "tradetime": "10/16/2023 16:00:05",
+    "datadelay": "0",
+    "volumeavg": "879488",
+    "pe": "13.81",
+    "eps": "0.74",
+    "high52": "12.75",
+    "low52": "8.58",
+    "change": "0.11",
+    "beta": "1.56",
+    "changepct": "1.09",
+    "closeyest": "10.09",
+    "shares": "141353000",
+    "currency": "USD",
+    "ticker": "ARI"
+}

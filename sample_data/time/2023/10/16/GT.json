@@ -1,0 +1,22 @@
+{
+    "price": "12.29",
+    "priceopen": "12.12",
+    "high": "12.35",
+    "low": "12.05",
+    "volume": "2201476",
+    "marketcap": "3483936006",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "3021655",
+    "pe": "#N/A",
+    "eps": "-1.3",
+    "high52": "16.51",
+    "low52": "9.66",
+    "change": "0.29",
+    "beta": "1.79",
+    "changepct": "2.42",
+    "closeyest": "12",
+    "shares": "283477000",
+    "currency": "USD",
+    "ticker": "GT"
+}

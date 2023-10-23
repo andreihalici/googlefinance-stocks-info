@@ -1,0 +1,22 @@
+{
+    "price": "0.36",
+    "priceopen": "0.38",
+    "high": "0.4",
+    "low": "0.36",
+    "volume": "201931",
+    "marketcap": "26092911",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "235441",
+    "pe": "#N/A",
+    "eps": "-1.31",
+    "high52": "3",
+    "low52": "0.32",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-3.83",
+    "closeyest": "0.38",
+    "shares": "73125000",
+    "currency": "USD",
+    "ticker": "OMIC"
+}

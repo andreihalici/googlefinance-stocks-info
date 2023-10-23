@@ -1,0 +1,22 @@
+{
+    "price": "10.5",
+    "priceopen": "10.5",
+    "high": "10.5",
+    "low": "10.5",
+    "volume": "4",
+    "marketcap": "82655060",
+    "tradetime": "10/12/2023 10:50:58",
+    "datadelay": "0",
+    "volumeavg": "206",
+    "pe": "35.31",
+    "eps": "0.3",
+    "high52": "11.85",
+    "low52": "9.84",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-0.1",
+    "closeyest": "10.51",
+    "shares": "5622000",
+    "currency": "USD",
+    "ticker": "IVCP"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "42.55",
+    "priceopen": "42.4",
+    "high": "42.67",
+    "low": "42.13",
+    "volume": "485254",
+    "marketcap": "4151259621",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "632786",
+    "pe": "14.64",
+    "eps": "2.91",
+    "high52": "55.84",
+    "low52": "38.92",
+    "change": "0.5",
+    "beta": "0.62",
+    "changepct": "1.19",
+    "closeyest": "42.05",
+    "shares": "97562000",
+    "currency": "USD",
+    "ticker": "NJR"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "32.34",
+    "priceopen": "32.28",
+    "high": "32.64",
+    "low": "32.2",
+    "volume": "521329",
+    "marketcap": "2435672235",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "596345",
+    "pe": "15.02",
+    "eps": "2.15",
+    "high52": "37.85",
+    "low52": "27.54",
+    "change": "0.38",
+    "beta": "1.12",
+    "changepct": "1.19",
+    "closeyest": "31.96",
+    "shares": "75315000",
+    "currency": "USD",
+    "ticker": "SHOO"
+}

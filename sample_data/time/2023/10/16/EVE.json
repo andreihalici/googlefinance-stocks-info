@@ -1,0 +1,22 @@
+{
+    "price": "10.71",
+    "priceopen": "10.68",
+    "high": "10.72",
+    "low": "10.68",
+    "volume": "58994",
+    "marketcap": "167111450",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "25341",
+    "pe": "47.49",
+    "eps": "0.23",
+    "high52": "11.4",
+    "low52": "10.04",
+    "change": "0",
+    "beta": "#N/A",
+    "changepct": "0",
+    "closeyest": "10.71",
+    "shares": "15603000",
+    "currency": "USD",
+    "ticker": "EVE"
+}

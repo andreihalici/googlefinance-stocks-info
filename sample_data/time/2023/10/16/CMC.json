@@ -1,0 +1,22 @@
+{
+    "price": "42.82",
+    "priceopen": "43.78",
+    "high": "43.88",
+    "low": "42.59",
+    "volume": "1575771",
+    "marketcap": "5005876346",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "1064256",
+    "pe": "5.91",
+    "eps": "7.25",
+    "high52": "58.09",
+    "low52": "41.83",
+    "change": "-0.34",
+    "beta": "1.34",
+    "changepct": "-0.79",
+    "closeyest": "43.16",
+    "shares": "116905000",
+    "currency": "USD",
+    "ticker": "CMC"
+}

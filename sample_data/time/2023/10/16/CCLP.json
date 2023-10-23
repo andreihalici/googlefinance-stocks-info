@@ -1,0 +1,22 @@
+{
+    "price": "1.3",
+    "priceopen": "1.35",
+    "high": "1.35",
+    "low": "1.28",
+    "volume": "38337",
+    "marketcap": "184593493",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "78790",
+    "pe": "#N/A",
+    "eps": "-0.1",
+    "high52": "1.49",
+    "low52": "1.04",
+    "change": "-0.05",
+    "beta": "0.88",
+    "changepct": "-3.7",
+    "closeyest": "1.35",
+    "shares": "141995000",
+    "currency": "USD",
+    "ticker": "CCLP"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "1.55",
+    "priceopen": "1.53",
+    "high": "1.75",
+    "low": "1.53",
+    "volume": "3888",
+    "marketcap": "7603762",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "10614",
+    "pe": "#N/A",
+    "eps": "-0.62",
+    "high52": "3.47",
+    "low52": "1.49",
+    "change": "-0.06",
+    "beta": "1.1",
+    "changepct": "-3.62",
+    "closeyest": "1.61",
+    "shares": "4915000",
+    "currency": "USD",
+    "ticker": "LEDS"
+}

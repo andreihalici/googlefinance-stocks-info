@@ -1,0 +1,22 @@
+{
+    "price": "10.3",
+    "priceopen": "10.25",
+    "high": "10.33",
+    "low": "10.15",
+    "volume": "761247",
+    "marketcap": "1771308542",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "1227338",
+    "pe": "3.94",
+    "eps": "2.61",
+    "high52": "13.74",
+    "low52": "9.31",
+    "change": "0.17",
+    "beta": "1.37",
+    "changepct": "1.68",
+    "closeyest": "10.13",
+    "shares": "171972000",
+    "currency": "USD",
+    "ticker": "RC"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "1.5",
+    "priceopen": "1.45",
+    "high": "1.5",
+    "low": "1.44",
+    "volume": "352912",
+    "marketcap": "107371110",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "405665",
+    "pe": "45.76",
+    "eps": "0.03",
+    "high52": "3.55",
+    "low52": "1",
+    "change": "0.02",
+    "beta": "1.36",
+    "changepct": "1.69",
+    "closeyest": "1.48",
+    "shares": "71581000",
+    "currency": "USD",
+    "ticker": "PLX"
+}

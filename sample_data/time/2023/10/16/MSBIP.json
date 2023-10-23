@@ -1,0 +1,22 @@
+{
+    "price": "23.45",
+    "priceopen": "23.45",
+    "high": "23.45",
+    "low": "23.21",
+    "volume": "167",
+    "marketcap": "451184047",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "6958",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "27.1",
+    "low52": "18.25",
+    "change": "-0.02",
+    "beta": "#N/A",
+    "changepct": "-0.09",
+    "closeyest": "23.47",
+    "shares": "4600000",
+    "currency": "USD",
+    "ticker": "MSBIP"
+}

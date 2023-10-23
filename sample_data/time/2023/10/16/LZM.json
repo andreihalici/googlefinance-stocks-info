@@ -1,0 +1,22 @@
+{
+    "price": "10",
+    "priceopen": "10.08",
+    "high": "10.08",
+    "low": "9.8",
+    "volume": "46466",
+    "marketcap": "799186000",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "127179",
+    "pe": "884.17",
+    "eps": "0.01",
+    "high52": "19.92",
+    "low52": "8.32",
+    "change": "-0.1",
+    "beta": "#N/A",
+    "changepct": "-0.99",
+    "closeyest": "10.1",
+    "shares": "79919000",
+    "currency": "USD",
+    "ticker": "LZM"
+}

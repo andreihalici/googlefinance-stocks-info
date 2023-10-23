@@ -1,0 +1,22 @@
+{
+    "price": "12.35",
+    "priceopen": "12.62",
+    "high": "12.62",
+    "low": "12.28",
+    "volume": "1333288",
+    "marketcap": "709306216",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "1409654",
+    "pe": "8.75",
+    "eps": "1.41",
+    "high52": "18.26",
+    "low52": "9.72",
+    "change": "-0.08",
+    "beta": "1.25",
+    "changepct": "-0.64",
+    "closeyest": "12.43",
+    "shares": "56956000",
+    "currency": "USD",
+    "ticker": "BANC"
+}

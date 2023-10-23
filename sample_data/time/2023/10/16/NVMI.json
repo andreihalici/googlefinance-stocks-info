@@ -1,0 +1,22 @@
+{
+    "price": "104.06",
+    "priceopen": "105.23",
+    "high": "105.23",
+    "low": "100.36",
+    "volume": "264871",
+    "marketcap": "2989102617",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "104044",
+    "pe": "24.39",
+    "eps": "4.27",
+    "high52": "131.51",
+    "low52": "68.47",
+    "change": "-2",
+    "beta": "1.26",
+    "changepct": "-1.89",
+    "closeyest": "106.06",
+    "shares": "28678000",
+    "currency": "USD",
+    "ticker": "NVMI"
+}

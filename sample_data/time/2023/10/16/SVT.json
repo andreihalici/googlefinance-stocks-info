@@ -1,0 +1,22 @@
+{
+    "price": "10.5",
+    "priceopen": "10.75",
+    "high": "10.95",
+    "low": "10.5",
+    "volume": "928",
+    "marketcap": "26210205",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "2251",
+    "pe": "#N/A",
+    "eps": "-5.17",
+    "high52": "14.32",
+    "low52": "9.9",
+    "change": "-0.42",
+    "beta": "0.69",
+    "changepct": "-3.85",
+    "closeyest": "10.92",
+    "shares": "2496000",
+    "currency": "USD",
+    "ticker": "SVT"
+}

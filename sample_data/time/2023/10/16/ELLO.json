@@ -1,0 +1,22 @@
+{
+    "price": "12.4",
+    "priceopen": "12.29",
+    "high": "12.53",
+    "low": "12.29",
+    "volume": "4198",
+    "marketcap": "159371987",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "3597",
+    "pe": "20.89",
+    "eps": "0.59",
+    "high52": "21.3",
+    "low52": "10.01",
+    "change": "-0.2",
+    "beta": "0.87",
+    "changepct": "-1.59",
+    "closeyest": "12.6",
+    "shares": "12853000",
+    "currency": "USD",
+    "ticker": "ELLO"
+}

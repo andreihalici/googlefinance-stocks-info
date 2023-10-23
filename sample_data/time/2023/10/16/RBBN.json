@@ -1,0 +1,22 @@
+{
+    "price": "2.1",
+    "priceopen": "2",
+    "high": "2.24",
+    "low": "2",
+    "volume": "786273",
+    "marketcap": "359408893",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "382911",
+    "pe": "#N/A",
+    "eps": "-0.35",
+    "high52": "4.84",
+    "low52": "2",
+    "change": "0.03",
+    "beta": "1.03",
+    "changepct": "1.45",
+    "closeyest": "2.07",
+    "shares": "171147000",
+    "currency": "USD",
+    "ticker": "RBBN"
+}

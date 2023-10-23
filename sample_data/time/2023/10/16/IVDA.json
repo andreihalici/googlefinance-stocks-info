@@ -1,0 +1,22 @@
+{
+    "price": "0.75",
+    "priceopen": "0.79",
+    "high": "0.79",
+    "low": "0.75",
+    "volume": "28868",
+    "marketcap": "12041504",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "68062",
+    "pe": "#N/A",
+    "eps": "-0.2",
+    "high52": "2.91",
+    "low52": "0.5",
+    "change": "-0.01",
+    "beta": "-2.83",
+    "changepct": "-1.05",
+    "closeyest": "0.76",
+    "shares": "16013000",
+    "currency": "USD",
+    "ticker": "IVDA"
+}

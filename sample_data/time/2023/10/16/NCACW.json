@@ -1,0 +1,22 @@
+{
+    "price": "0.01",
+    "priceopen": "0.01",
+    "high": "0.01",
+    "low": "0.01",
+    "volume": "36240",
+    "marketcap": "98513720",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "12422",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "0.12",
+    "low52": "0",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-34.05",
+    "closeyest": "0.02",
+    "shares": "#N/A",
+    "currency": "USD",
+    "ticker": "NCACW"
+}

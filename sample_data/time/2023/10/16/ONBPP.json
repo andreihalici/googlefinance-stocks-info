@@ -1,0 +1,22 @@
+{
+    "price": "23.32",
+    "priceopen": "23.5",
+    "high": "23.53",
+    "low": "23.32",
+    "volume": "1905",
+    "marketcap": "4166465869",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "10344",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "26.34",
+    "low52": "18.53",
+    "change": "0.12",
+    "beta": "0.4",
+    "changepct": "0.51",
+    "closeyest": "23.2",
+    "shares": "4320000",
+    "currency": "USD",
+    "ticker": "ONBPP"
+}

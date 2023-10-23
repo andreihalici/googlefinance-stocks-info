@@ -1,0 +1,22 @@
+{
+    "price": "111.92",
+    "priceopen": "111.13",
+    "high": "112.12",
+    "low": "110.74",
+    "volume": "1556602",
+    "marketcap": "63928848450",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "2476265",
+    "pe": "37.22",
+    "eps": "3.01",
+    "high52": "118.79",
+    "low52": "89.49",
+    "change": "1.49",
+    "beta": "0.93",
+    "changepct": "1.35",
+    "closeyest": "110.43",
+    "shares": "571201000",
+    "currency": "USD",
+    "ticker": "ICE"
+}

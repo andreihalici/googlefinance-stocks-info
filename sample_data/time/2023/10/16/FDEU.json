@@ -1,0 +1,22 @@
+{
+    "price": "12.4",
+    "priceopen": "12.41",
+    "high": "12.41",
+    "low": "12.31",
+    "volume": "20348",
+    "marketcap": "213675677",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "31249",
+    "pe": "6.58",
+    "eps": "1.88",
+    "high52": "13.75",
+    "low52": "9.5",
+    "change": "0.08",
+    "beta": "1.17",
+    "changepct": "0.65",
+    "closeyest": "12.32",
+    "shares": "17232000",
+    "currency": "USD",
+    "ticker": "FDEU"
+}

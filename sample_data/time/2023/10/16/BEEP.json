@@ -1,0 +1,22 @@
+{
+    "price": "3.71",
+    "priceopen": "3.5",
+    "high": "3.72",
+    "low": "3.46",
+    "volume": "36093",
+    "marketcap": "349657375",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "34907",
+    "pe": "26.18",
+    "eps": "0.14",
+    "high52": "13.99",
+    "low52": "3.1",
+    "change": "0.19",
+    "beta": "#N/A",
+    "changepct": "5.4",
+    "closeyest": "3.52",
+    "shares": "14978000",
+    "currency": "USD",
+    "ticker": "BEEP"
+}

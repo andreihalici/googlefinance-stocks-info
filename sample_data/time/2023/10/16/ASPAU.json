@@ -1,0 +1,22 @@
+{
+    "price": "10.5",
+    "priceopen": "10.55",
+    "high": "10.55",
+    "low": "10.5",
+    "volume": "200",
+    "marketcap": "25860296",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "3",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "11.5",
+    "low52": "9.83",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-0.1",
+    "closeyest": "10.51",
+    "shares": "6029000",
+    "currency": "USD",
+    "ticker": "ASPAU"
+}

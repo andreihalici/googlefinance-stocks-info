@@ -1,0 +1,22 @@
+{
+    "price": "23.33",
+    "priceopen": "23.21",
+    "high": "23.49",
+    "low": "23.04",
+    "volume": "1357858",
+    "marketcap": "19958854595",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "1700670",
+    "pe": "4.78",
+    "eps": "4.88",
+    "high52": "32.49",
+    "low52": "21.14",
+    "change": "0.55",
+    "beta": "1.89",
+    "changepct": "2.41",
+    "closeyest": "22.78",
+    "shares": "852810000",
+    "currency": "USD",
+    "ticker": "MT"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "12.3",
+    "priceopen": "12.11",
+    "high": "12.43",
+    "low": "12.05",
+    "volume": "1939409",
+    "marketcap": "6634356533",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "2356285",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "14.12",
+    "low52": "7.13",
+    "change": "0.1",
+    "beta": "1.12",
+    "changepct": "0.78",
+    "closeyest": "12.21",
+    "shares": "396065000",
+    "currency": "USD",
+    "ticker": "AGI"
+}

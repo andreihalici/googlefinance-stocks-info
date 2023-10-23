@@ -1,0 +1,22 @@
+{
+    "price": "3.29",
+    "priceopen": "3.29",
+    "high": "3.33",
+    "low": "3.28",
+    "volume": "141278",
+    "marketcap": "88757849",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "178953",
+    "pe": "#N/A",
+    "eps": "-0.59",
+    "high52": "7.24",
+    "low52": "3.25",
+    "change": "0.01",
+    "beta": "1.2",
+    "changepct": "0.3",
+    "closeyest": "3.28",
+    "shares": "26978000",
+    "currency": "USD",
+    "ticker": "CHMI"
+}

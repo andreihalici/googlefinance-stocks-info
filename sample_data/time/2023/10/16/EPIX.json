@@ -1,0 +1,22 @@
+{
+    "price": "3.23",
+    "priceopen": "3.21",
+    "high": "3.29",
+    "low": "2.85",
+    "volume": "1573581",
+    "marketcap": "142445681",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "32324",
+    "pe": "#N/A",
+    "eps": "-0.62",
+    "high52": "5.16",
+    "low52": "1.68",
+    "change": "0.49",
+    "beta": "2.02",
+    "changepct": "17.88",
+    "closeyest": "2.74",
+    "shares": "44101000",
+    "currency": "USD",
+    "ticker": "EPIX"
+}

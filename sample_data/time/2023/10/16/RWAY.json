@@ -1,0 +1,22 @@
+{
+    "price": "12.29",
+    "priceopen": "12.22",
+    "high": "12.36",
+    "low": "12.15",
+    "volume": "106784",
+    "marketcap": "497858803",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "85279",
+    "pe": "7.73",
+    "eps": "1.59",
+    "high52": "13.97",
+    "low52": "10.47",
+    "change": "0.14",
+    "beta": "#N/A",
+    "changepct": "1.15",
+    "closeyest": "12.15",
+    "shares": "40509000",
+    "currency": "USD",
+    "ticker": "RWAY"
+}

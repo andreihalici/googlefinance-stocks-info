@@ -1,0 +1,22 @@
+{
+    "price": "22.45",
+    "priceopen": "22.42",
+    "high": "22.48",
+    "low": "22.42",
+    "volume": "70781",
+    "marketcap": "201038124",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "174354",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "22.8",
+    "low52": "21.8",
+    "change": "0.03",
+    "beta": "0.36",
+    "changepct": "0.13",
+    "closeyest": "22.42",
+    "shares": "51600000",
+    "currency": "USD",
+    "ticker": "BSJP"
+}

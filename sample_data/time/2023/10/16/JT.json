@@ -1,0 +1,22 @@
+{
+    "price": "1.01",
+    "priceopen": "1.07",
+    "high": "1.07",
+    "low": "1",
+    "volume": "50306",
+    "marketcap": "21434623",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "35466",
+    "pe": "#N/A",
+    "eps": "-0.37",
+    "high52": "2.16",
+    "low52": "0.74",
+    "change": "0.01",
+    "beta": "0.53",
+    "changepct": "1",
+    "closeyest": "1",
+    "shares": "16398800",
+    "currency": "USD",
+    "ticker": "JT"
+}

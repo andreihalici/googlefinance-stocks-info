@@ -1,0 +1,22 @@
+{
+    "price": "10.32",
+    "priceopen": "10.32",
+    "high": "10.32",
+    "low": "10.3",
+    "volume": "501",
+    "marketcap": "171578147",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "70434",
+    "pe": "60.21",
+    "eps": "0.17",
+    "high52": "10.4",
+    "low52": "9.72",
+    "change": "0.02",
+    "beta": "#N/A",
+    "changepct": "0.19",
+    "closeyest": "10.3",
+    "shares": "8001000",
+    "currency": "USD",
+    "ticker": "ACRO"
+}

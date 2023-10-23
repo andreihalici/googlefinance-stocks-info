@@ -1,0 +1,22 @@
+{
+    "price": "10.08",
+    "priceopen": "10.17",
+    "high": "10.39",
+    "low": "10.02",
+    "volume": "263461",
+    "marketcap": "1448109925",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "189979",
+    "pe": "100.2",
+    "eps": "0.1",
+    "high52": "18.15",
+    "low52": "5.46",
+    "change": "-0.04",
+    "beta": "#N/A",
+    "changepct": "-0.4",
+    "closeyest": "10.12",
+    "shares": "143662000",
+    "currency": "USD",
+    "ticker": "MNTK"
+}

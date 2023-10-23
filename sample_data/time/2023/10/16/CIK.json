@@ -1,0 +1,22 @@
+{
+    "price": "2.56",
+    "priceopen": "2.58",
+    "high": "2.59",
+    "low": "2.56",
+    "volume": "300090",
+    "marketcap": "134756195",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "270495",
+    "pe": "8.21",
+    "eps": "0.31",
+    "high52": "3.08",
+    "low52": "2.39",
+    "change": "-0.02",
+    "beta": "0.68",
+    "changepct": "-0.78",
+    "closeyest": "2.58",
+    "shares": "52645000",
+    "currency": "USD",
+    "ticker": "CIK"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "1.45",
+    "priceopen": "1.37",
+    "high": "1.5",
+    "low": "1.37",
+    "volume": "77082",
+    "marketcap": "71000499",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "281086",
+    "pe": "#N/A",
+    "eps": "-0.84",
+    "high52": "4.19",
+    "low52": "0.61",
+    "change": "0.05",
+    "beta": "1.06",
+    "changepct": "3.57",
+    "closeyest": "1.4",
+    "shares": "48966000",
+    "currency": "USD",
+    "ticker": "CRVS"
+}

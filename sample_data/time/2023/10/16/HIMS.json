@@ -1,0 +1,22 @@
+{
+    "price": "6.28",
+    "priceopen": "6.28",
+    "high": "6.32",
+    "low": "6.13",
+    "volume": "1886973",
+    "marketcap": "1325222600",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "1986210",
+    "pe": "#N/A",
+    "eps": "-0.23",
+    "high52": "12.34",
+    "low52": "4.01",
+    "change": "0.03",
+    "beta": "0.54",
+    "changepct": "0.48",
+    "closeyest": "6.25",
+    "shares": "202645000",
+    "currency": "USD",
+    "ticker": "HIMS"
+}

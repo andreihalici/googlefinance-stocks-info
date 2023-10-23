@@ -1,0 +1,22 @@
+{
+    "price": "1.24",
+    "priceopen": "1.25",
+    "high": "1.36",
+    "low": "1.19",
+    "volume": "29730",
+    "marketcap": "33622960",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "43427",
+    "pe": "#N/A",
+    "eps": "-0.61",
+    "high52": "1.58",
+    "low52": "0.43",
+    "change": "0.02",
+    "beta": "-0.43",
+    "changepct": "1.64",
+    "closeyest": "1.22",
+    "shares": "26898000",
+    "currency": "USD",
+    "ticker": "MATH"
+}

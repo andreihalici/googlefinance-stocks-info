@@ -1,0 +1,22 @@
+{
+    "price": "111.5",
+    "priceopen": "111.04",
+    "high": "112.79",
+    "low": "109.64",
+    "volume": "1675542",
+    "marketcap": "32623472800",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "2000832",
+    "pe": "29.21",
+    "eps": "3.82",
+    "high52": "160.26",
+    "low52": "106.82",
+    "change": "0.99",
+    "beta": "1.04",
+    "changepct": "0.9",
+    "closeyest": "110.51",
+    "shares": "292587000",
+    "currency": "USD",
+    "ticker": "A"
+}

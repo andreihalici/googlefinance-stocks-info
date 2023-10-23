@@ -1,0 +1,22 @@
+{
+    "price": "1.08",
+    "priceopen": "1.08",
+    "high": "1.14",
+    "low": "1.08",
+    "volume": "107833",
+    "marketcap": "17842745",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "98313",
+    "pe": "#N/A",
+    "eps": "-0.89",
+    "high52": "3.89",
+    "low52": "0.97",
+    "change": "0.01",
+    "beta": "0.93",
+    "changepct": "0.93",
+    "closeyest": "1.07",
+    "shares": "16510000",
+    "currency": "USD",
+    "ticker": "SFE"
+}

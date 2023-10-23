@@ -1,0 +1,22 @@
+{
+    "price": "0.25",
+    "priceopen": "0.25",
+    "high": "0.27",
+    "low": "0.25",
+    "volume": "66164",
+    "marketcap": "9769232",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "150384",
+    "pe": "#N/A",
+    "eps": "-0.45",
+    "high52": "2.3",
+    "low52": "0.18",
+    "change": "-0.01",
+    "beta": "0.9",
+    "changepct": "-3.88",
+    "closeyest": "0.26",
+    "shares": "40640000",
+    "currency": "USD",
+    "ticker": "GTBP"
+}

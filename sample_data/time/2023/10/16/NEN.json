@@ -1,0 +1,22 @@
+{
+    "price": "67.5",
+    "priceopen": "66",
+    "high": "67.5",
+    "low": "66",
+    "volume": "1746",
+    "marketcap": "192126127",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "341",
+    "pe": "33.88",
+    "eps": "1.99",
+    "high52": "78.25",
+    "low52": "65",
+    "change": "-0.75",
+    "beta": "0.34",
+    "changepct": "-1.1",
+    "closeyest": "68.25",
+    "shares": "2862000",
+    "currency": "USD",
+    "ticker": "NEN"
+}

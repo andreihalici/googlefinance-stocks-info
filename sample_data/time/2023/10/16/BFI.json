@@ -1,0 +1,22 @@
+{
+    "price": "1.05",
+    "priceopen": "1.04",
+    "high": "1.07",
+    "low": "1.04",
+    "volume": "28226",
+    "marketcap": "28140093",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "23743",
+    "pe": "#N/A",
+    "eps": "-1.95",
+    "high52": "2.35",
+    "low52": "0.95",
+    "change": "0.01",
+    "beta": "0.47",
+    "changepct": "0.96",
+    "closeyest": "1.04",
+    "shares": "26800000",
+    "currency": "USD",
+    "ticker": "BFI"
+}

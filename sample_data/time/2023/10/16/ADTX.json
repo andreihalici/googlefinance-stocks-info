@@ -1,0 +1,22 @@
+{
+    "price": "9.81",
+    "priceopen": "10",
+    "high": "10.89",
+    "low": "9.79",
+    "volume": "101991",
+    "marketcap": "1867032",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "218857",
+    "pe": "#N/A",
+    "eps": "-378.55",
+    "high52": "137.6",
+    "low52": "7.34",
+    "change": "-0.21",
+    "beta": "1.04",
+    "changepct": "-2.1",
+    "closeyest": "10.02",
+    "shares": "239000",
+    "currency": "USD",
+    "ticker": "ADTX"
+}

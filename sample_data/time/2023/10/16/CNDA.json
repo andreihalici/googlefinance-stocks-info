@@ -1,0 +1,22 @@
+{
+    "price": "10.3",
+    "priceopen": "10.33",
+    "high": "10.33",
+    "low": "10.3",
+    "volume": "2501",
+    "marketcap": "223524939",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "402062",
+    "pe": "37.98",
+    "eps": "0.27",
+    "high52": "10.9",
+    "low52": "9.73",
+    "change": "-0.02",
+    "beta": "#N/A",
+    "changepct": "-0.19",
+    "closeyest": "10.32",
+    "shares": "28010000",
+    "currency": "USD",
+    "ticker": "CNDA"
+}

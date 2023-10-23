@@ -1,0 +1,22 @@
+{
+    "price": "10.53",
+    "priceopen": "10.54",
+    "high": "10.55",
+    "low": "10.53",
+    "volume": "60430",
+    "marketcap": "112361520",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "27006",
+    "pe": "82.45",
+    "eps": "0.13",
+    "high52": "10.78",
+    "low52": "9.85",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-0.09",
+    "closeyest": "10.54",
+    "shares": "6358000",
+    "currency": "USD",
+    "ticker": "TCOA"
+}

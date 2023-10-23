@@ -1,0 +1,22 @@
+{
+    "price": "12.32",
+    "priceopen": "11.76",
+    "high": "12.41",
+    "low": "11.6",
+    "volume": "41401",
+    "marketcap": "615918795",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "131090",
+    "pe": "2.43",
+    "eps": "5.08",
+    "high52": "22.75",
+    "low52": "6",
+    "change": "0.54",
+    "beta": "#N/A",
+    "changepct": "4.58",
+    "closeyest": "11.78",
+    "shares": "13456000",
+    "currency": "USD",
+    "ticker": "TSAT"
+}

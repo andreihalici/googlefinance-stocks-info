@@ -1,0 +1,22 @@
+{
+    "price": "1.3",
+    "priceopen": "1.13",
+    "high": "1.31",
+    "low": "1.13",
+    "volume": "337568",
+    "marketcap": "34456927",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "514311",
+    "pe": "#N/A",
+    "eps": "-0.83",
+    "high52": "1.54",
+    "low52": "0.37",
+    "change": "0.18",
+    "beta": "0.73",
+    "changepct": "16.07",
+    "closeyest": "1.12",
+    "shares": "21101000",
+    "currency": "USD",
+    "ticker": "MYO"
+}

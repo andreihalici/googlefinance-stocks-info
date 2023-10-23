@@ -1,0 +1,22 @@
+{
+    "price": "1.02",
+    "priceopen": "1.05",
+    "high": "1.08",
+    "low": "1",
+    "volume": "40627",
+    "marketcap": "51835175",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "47640",
+    "pe": "#N/A",
+    "eps": "-0.4",
+    "high52": "2.07",
+    "low52": "0.75",
+    "change": "0.02",
+    "beta": "2.56",
+    "changepct": "2",
+    "closeyest": "1",
+    "shares": "50819000",
+    "currency": "USD",
+    "ticker": "VANI"
+}

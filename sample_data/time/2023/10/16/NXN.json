@@ -1,0 +1,22 @@
+{
+    "price": "11.23",
+    "priceopen": "11.25",
+    "high": "11.28",
+    "low": "11.14",
+    "volume": "20329",
+    "marketcap": "44095783",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "7784",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "12.55",
+    "low52": "10.75",
+    "change": "-0.09",
+    "beta": "0.26",
+    "changepct": "-0.76",
+    "closeyest": "11.32",
+    "shares": "3925000",
+    "currency": "USD",
+    "ticker": "NXN"
+}

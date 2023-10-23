@@ -1,0 +1,22 @@
+{
+    "price": "1.25",
+    "priceopen": "1.23",
+    "high": "1.28",
+    "low": "1.23",
+    "volume": "76250",
+    "marketcap": "278858100",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "97546",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "1.98",
+    "low52": "1.2",
+    "change": "0.02",
+    "beta": "2.08",
+    "changepct": "1.63",
+    "closeyest": "1.23",
+    "shares": "162460000",
+    "currency": "USD",
+    "ticker": "WRN"
+}

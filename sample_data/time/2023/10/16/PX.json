@@ -1,0 +1,22 @@
+{
+    "price": "10.2",
+    "priceopen": "10.18",
+    "high": "10.43",
+    "low": "10.18",
+    "volume": "171628",
+    "marketcap": "1185291997",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "258759",
+    "pe": "93.69",
+    "eps": "0.11",
+    "high52": "13.41",
+    "low52": "8.75",
+    "change": "0.12",
+    "beta": "1.08",
+    "changepct": "1.19",
+    "closeyest": "10.08",
+    "shares": "43835000",
+    "currency": "USD",
+    "ticker": "PX"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "22.24",
+    "priceopen": "21.55",
+    "high": "22.45",
+    "low": "21.55",
+    "volume": "2775335",
+    "marketcap": "4330399283",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "2317588",
+    "pe": "39.81",
+    "eps": "0.56",
+    "high52": "40.12",
+    "low52": "19.71",
+    "change": "0.64",
+    "beta": "#N/A",
+    "changepct": "2.96",
+    "closeyest": "21.6",
+    "shares": "125514000",
+    "currency": "USD",
+    "ticker": "DOCS"
+}

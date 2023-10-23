@@ -1,0 +1,22 @@
+{
+    "price": "0.25",
+    "priceopen": "0.21",
+    "high": "0.28",
+    "low": "0.2",
+    "volume": "4747563",
+    "marketcap": "8142193",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "5988612",
+    "pe": "#N/A",
+    "eps": "-1.26",
+    "high52": "1.14",
+    "low52": "0.11",
+    "change": "0.04",
+    "beta": "2.24",
+    "changepct": "18.32",
+    "closeyest": "0.21",
+    "shares": "32081000",
+    "currency": "USD",
+    "ticker": "BTTR"
+}

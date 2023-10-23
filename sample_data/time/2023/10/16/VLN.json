@@ -1,0 +1,22 @@
+{
+    "price": "2.54",
+    "priceopen": "2.5",
+    "high": "2.55",
+    "low": "2.5",
+    "volume": "173166",
+    "marketcap": "258681216",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "186903",
+    "pe": "#N/A",
+    "eps": "-0.23",
+    "high52": "5.99",
+    "low52": "2.23",
+    "change": "0.01",
+    "beta": "0.15",
+    "changepct": "0.4",
+    "closeyest": "2.53",
+    "shares": "98876000",
+    "currency": "USD",
+    "ticker": "VLN"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "0.18",
+    "priceopen": "0.17",
+    "high": "0.18",
+    "low": "0.16",
+    "volume": "1704541",
+    "marketcap": "8269405",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "3153142",
+    "pe": "#N/A",
+    "eps": "-0.6",
+    "high52": "3.73",
+    "low52": "0.14",
+    "change": "0.01",
+    "beta": "-0.21",
+    "changepct": "8.06",
+    "closeyest": "0.17",
+    "shares": "45016000",
+    "currency": "USD",
+    "ticker": "BCLI"
+}

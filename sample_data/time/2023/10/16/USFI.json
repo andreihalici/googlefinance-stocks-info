@@ -1,0 +1,22 @@
+{
+    "price": "23.15",
+    "priceopen": "23.2",
+    "high": "23.2",
+    "low": "23.15",
+    "volume": "5",
+    "marketcap": "#N/A",
+    "tradetime": "10/11/2023 15:59:13",
+    "datadelay": "0",
+    "volumeavg": "190",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "24.92",
+    "low52": "22.92",
+    "change": "-0.19",
+    "beta": "#N/A",
+    "changepct": "-0.81",
+    "closeyest": "23.34",
+    "shares": "500000",
+    "currency": "USD",
+    "ticker": "USFI"
+}

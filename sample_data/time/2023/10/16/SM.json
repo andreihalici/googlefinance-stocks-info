@@ -1,0 +1,22 @@
+{
+    "price": "42.15",
+    "priceopen": "42.43",
+    "high": "42.65",
+    "low": "41.53",
+    "volume": "1965290",
+    "marketcap": "5001751006",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "1696690",
+    "pe": "4.77",
+    "eps": "8.83",
+    "high52": "48.55",
+    "low52": "24.66",
+    "change": "0.17",
+    "beta": "4.33",
+    "changepct": "0.4",
+    "closeyest": "41.98",
+    "shares": "118666000",
+    "currency": "USD",
+    "ticker": "SM"
+}

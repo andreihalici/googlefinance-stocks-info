@@ -1,0 +1,22 @@
+{
+    "price": "80.51",
+    "priceopen": "80.65",
+    "high": "81.04",
+    "low": "80.09",
+    "volume": "1212173",
+    "marketcap": "33149590829",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "1858173",
+    "pe": "25.37",
+    "eps": "3.17",
+    "high52": "91.33",
+    "low52": "64.3",
+    "change": "0.51",
+    "beta": "0.87",
+    "changepct": "0.64",
+    "closeyest": "80",
+    "shares": "411745000",
+    "currency": "USD",
+    "ticker": "OTIS"
+}

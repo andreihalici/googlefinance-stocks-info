@@ -1,0 +1,22 @@
+{
+    "price": "15.75",
+    "priceopen": "17.5",
+    "high": "17.56",
+    "low": "15.65",
+    "volume": "10443",
+    "marketcap": "5467771",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "141636",
+    "pe": "#N/A",
+    "eps": "-16.64",
+    "high52": "96",
+    "low52": "9.21",
+    "change": "-2.23",
+    "beta": "#N/A",
+    "changepct": "-12.4",
+    "closeyest": "17.98",
+    "shares": "381000",
+    "currency": "USD",
+    "ticker": "SQL"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "1.14",
+    "priceopen": "1.15",
+    "high": "1.17",
+    "low": "1.11",
+    "volume": "96242",
+    "marketcap": "53876501",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "181156",
+    "pe": "#N/A",
+    "eps": "-0.78",
+    "high52": "3.68",
+    "low52": "1.08",
+    "change": "0.02",
+    "beta": "1.34",
+    "changepct": "1.79",
+    "closeyest": "1.12",
+    "shares": "47260000",
+    "currency": "USD",
+    "ticker": "CVM"
+}

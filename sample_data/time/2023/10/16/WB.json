@@ -1,0 +1,22 @@
+{
+    "price": "12.34",
+    "priceopen": "12.13",
+    "high": "12.49",
+    "low": "12.04",
+    "volume": "602180",
+    "marketcap": "23210085791",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "947444",
+    "pe": "9.49",
+    "eps": "1.3",
+    "high52": "25.57",
+    "low52": "10.02",
+    "change": "0.08",
+    "beta": "0.58",
+    "changepct": "0.65",
+    "closeyest": "12.26",
+    "shares": "147449000",
+    "currency": "USD",
+    "ticker": "WB"
+}

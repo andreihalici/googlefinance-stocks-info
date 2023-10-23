@@ -1,0 +1,22 @@
+{
+    "price": "15.05",
+    "priceopen": "15.15",
+    "high": "15.15",
+    "low": "14.7",
+    "volume": "50329",
+    "marketcap": "1309291566",
+    "tradetime": "10/16/2023 17:36:00",
+    "datadelay": "15",
+    "volumeavg": "21820",
+    "pe": "12.04",
+    "eps": "1.25",
+    "high52": "15.4",
+    "low52": "9.54",
+    "change": "-0.05",
+    "beta": "#N/A",
+    "changepct": "-0.33",
+    "closeyest": "15.1",
+    "shares": "87000000",
+    "currency": "EUR",
+    "ticker": "ENO"
+}

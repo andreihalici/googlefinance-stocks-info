@@ -1,0 +1,22 @@
+{
+    "price": "13.5",
+    "priceopen": "13.5",
+    "high": "13.5",
+    "low": "13.27",
+    "volume": "865",
+    "marketcap": "7685525",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "2731",
+    "pe": "#N/A",
+    "eps": "-1.92",
+    "high52": "22.58",
+    "low52": "6.61",
+    "change": "1",
+    "beta": "0.12",
+    "changepct": "8",
+    "closeyest": "12.5",
+    "shares": "335000",
+    "currency": "USD",
+    "ticker": "CYCCP"
+}

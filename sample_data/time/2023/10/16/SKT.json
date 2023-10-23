@@ -1,0 +1,22 @@
+{
+    "price": "23.4",
+    "priceopen": "23.23",
+    "high": "23.56",
+    "low": "23.12",
+    "volume": "439754",
+    "marketcap": "2461216639",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "695004",
+    "pe": "28.02",
+    "eps": "0.84",
+    "high52": "25.23",
+    "low52": "16.13",
+    "change": "0.37",
+    "beta": "1.91",
+    "changepct": "1.61",
+    "closeyest": "23.03",
+    "shares": "105180000",
+    "currency": "USD",
+    "ticker": "SKT"
+}

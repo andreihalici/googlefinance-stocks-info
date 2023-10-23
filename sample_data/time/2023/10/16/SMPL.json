@@ -1,0 +1,22 @@
+{
+    "price": "33.23",
+    "priceopen": "32.97",
+    "high": "33.42",
+    "low": "32.62",
+    "volume": "355793",
+    "marketcap": "3308012559",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "604835",
+    "pe": "26.43",
+    "eps": "1.26",
+    "high52": "40.16",
+    "low52": "31.73",
+    "change": "0.57",
+    "beta": "0.76",
+    "changepct": "1.75",
+    "closeyest": "32.66",
+    "shares": "99549000",
+    "currency": "USD",
+    "ticker": "SMPL"
+}

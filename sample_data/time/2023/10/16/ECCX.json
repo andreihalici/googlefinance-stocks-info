@@ -1,0 +1,22 @@
+{
+    "price": "23.02",
+    "priceopen": "23.07",
+    "high": "23.24",
+    "low": "23",
+    "volume": "4950",
+    "marketcap": "607580416",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "3887",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "26",
+    "low52": "22.46",
+    "change": "0.02",
+    "beta": "0.23",
+    "changepct": "0.09",
+    "closeyest": "23",
+    "shares": "1297000",
+    "currency": "USD",
+    "ticker": "ECCX"
+}

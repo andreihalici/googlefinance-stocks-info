@@ -1,0 +1,22 @@
+{
+    "price": "12.5",
+    "priceopen": "12.7",
+    "high": "12.93",
+    "low": "12.42",
+    "volume": "10291",
+    "marketcap": "117124012",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "7784",
+    "pe": "33.86",
+    "eps": "0.37",
+    "high52": "14.35",
+    "low52": "10.1",
+    "change": "-0.21",
+    "beta": "0.82",
+    "changepct": "-1.65",
+    "closeyest": "12.71",
+    "shares": "9370000",
+    "currency": "USD",
+    "ticker": "NTIC"
+}

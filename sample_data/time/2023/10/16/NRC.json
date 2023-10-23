@@ -1,0 +1,22 @@
+{
+    "price": "42.28",
+    "priceopen": "42.48",
+    "high": "42.98",
+    "low": "42.15",
+    "volume": "23464",
+    "marketcap": "1038724440",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "37700",
+    "pe": "35.91",
+    "eps": "1.18",
+    "high52": "47.6",
+    "low52": "34.69",
+    "change": "0.17",
+    "beta": "0.45",
+    "changepct": "0.4",
+    "closeyest": "42.11",
+    "shares": "24568000",
+    "currency": "USD",
+    "ticker": "NRC"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "42.25",
+    "priceopen": "42.47",
+    "high": "43.31",
+    "low": "41.85",
+    "volume": "533818",
+    "marketcap": "1910208267",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "868109",
+    "pe": "#N/A",
+    "eps": "-0.53",
+    "high52": "81.76",
+    "low52": "41.85",
+    "change": "0.11",
+    "beta": "0.89",
+    "changepct": "0.26",
+    "closeyest": "42.14",
+    "shares": "45212000",
+    "currency": "USD",
+    "ticker": "OMCL"
+}

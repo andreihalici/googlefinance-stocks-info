@@ -1,0 +1,22 @@
+{
+    "price": "42.36",
+    "priceopen": "42.87",
+    "high": "42.88",
+    "low": "41.99",
+    "volume": "5982306",
+    "marketcap": "38062421816",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "6682091",
+    "pe": "15.62",
+    "eps": "2.71",
+    "high52": "43.42",
+    "low52": "27.84",
+    "change": "-0.07",
+    "beta": "2.12",
+    "changepct": "-0.16",
+    "closeyest": "42.43",
+    "shares": "898546000",
+    "currency": "USD",
+    "ticker": "HAL"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "321.15",
+    "priceopen": "318.64",
+    "high": "321.82",
+    "low": "315.52",
+    "volume": "16536114",
+    "marketcap": "826370639444",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "20123759",
+    "pe": "38.46",
+    "eps": "8.35",
+    "high52": "330.54",
+    "low52": "88.09",
+    "change": "6.46",
+    "beta": "1.21",
+    "changepct": "2.05",
+    "closeyest": "314.69",
+    "shares": "2222583000",
+    "currency": "USD",
+    "ticker": "META"
+}

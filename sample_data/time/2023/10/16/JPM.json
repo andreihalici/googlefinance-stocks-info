@@ -1,0 +1,22 @@
+{
+    "price": "147.85",
+    "priceopen": "149.45",
+    "high": "149.52",
+    "low": "146.72",
+    "volume": "12663461",
+    "marketcap": "429664684987",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "9546371",
+    "pe": "8.83",
+    "eps": "16.75",
+    "high52": "159.38",
+    "low52": "114.32",
+    "change": "-0.15",
+    "beta": "1.1",
+    "changepct": "-0.1",
+    "closeyest": "148",
+    "shares": "2906085000",
+    "currency": "USD",
+    "ticker": "JPM"
+}

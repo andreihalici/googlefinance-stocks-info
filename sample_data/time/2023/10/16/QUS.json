@@ -1,0 +1,22 @@
+{
+    "price": "123.37",
+    "priceopen": "122.67",
+    "high": "123.37",
+    "low": "122.67",
+    "volume": "5333",
+    "marketcap": "#N/A",
+    "tradetime": "10/16/2023 20:00:00",
+    "datadelay": "0",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "127.42",
+    "low52": "103.22",
+    "change": "1.54",
+    "beta": "#N/A",
+    "changepct": "1.26",
+    "closeyest": "121.83",
+    "shares": "50000",
+    "currency": "USD",
+    "ticker": "QUS"
+}

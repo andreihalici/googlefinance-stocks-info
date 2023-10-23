@@ -1,0 +1,22 @@
+{
+    "price": "0.4",
+    "priceopen": "0.41",
+    "high": "0.41",
+    "low": "0.4",
+    "volume": "166455",
+    "marketcap": "110485841",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "280970",
+    "pe": "46.67",
+    "eps": "0.01",
+    "high52": "0.6",
+    "low52": "0.31",
+    "change": "-0.01",
+    "beta": "0.89",
+    "changepct": "-2.2",
+    "closeyest": "0.41",
+    "shares": "277312000",
+    "currency": "USD",
+    "ticker": "TRX"
+}

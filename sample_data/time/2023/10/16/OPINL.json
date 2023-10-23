@@ -1,0 +1,22 @@
+{
+    "price": "12.5",
+    "priceopen": "12.4",
+    "high": "12.5",
+    "low": "12.3",
+    "volume": "6351",
+    "marketcap": "229329402",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "27601",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "21.7",
+    "low52": "11.23",
+    "change": "-0.05",
+    "beta": "0.51",
+    "changepct": "-0.4",
+    "closeyest": "12.55",
+    "shares": "6480000",
+    "currency": "USD",
+    "ticker": "OPINL"
+}

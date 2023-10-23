@@ -1,0 +1,22 @@
+{
+    "price": "168.54",
+    "priceopen": "172.55",
+    "high": "174.43",
+    "low": "166.68",
+    "volume": "119840693",
+    "marketcap": "528115012762",
+    "tradetime": "5/10/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "125629944",
+    "pe": "49.62",
+    "eps": "3.4",
+    "high52": "314.67",
+    "low52": "101.81",
+    "change": "-0.61",
+    "beta": "2",
+    "changepct": "-0.36",
+    "closeyest": "169.15",
+    "shares": "3169504000",
+    "currency": "USD",
+    "ticker": "TSLA"
+}

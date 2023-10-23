@@ -1,0 +1,22 @@
+{
+    "price": "12.42",
+    "priceopen": "12.5",
+    "high": "12.53",
+    "low": "12.31",
+    "volume": "503606",
+    "marketcap": "1777497004",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "514444",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "14.88",
+    "low52": "11.61",
+    "change": "-0.01",
+    "beta": "0.91",
+    "changepct": "-0.08",
+    "closeyest": "12.43",
+    "shares": "110617000",
+    "currency": "USD",
+    "ticker": "PTY"
+}

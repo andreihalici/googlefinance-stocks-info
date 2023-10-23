@@ -1,0 +1,22 @@
+{
+    "price": "10.78",
+    "priceopen": "10.92",
+    "high": "10.97",
+    "low": "10.77",
+    "volume": "495271",
+    "marketcap": "1103480658",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "416853",
+    "pe": "#N/A",
+    "eps": "-2.09",
+    "high52": "12.78",
+    "low52": "10.46",
+    "change": "-0.13",
+    "beta": "0.83",
+    "changepct": "-1.19",
+    "closeyest": "10.91",
+    "shares": "101997000",
+    "currency": "USD",
+    "ticker": "DSL"
+}

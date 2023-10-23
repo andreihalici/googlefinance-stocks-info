@@ -1,0 +1,22 @@
+{
+    "price": "10.32",
+    "priceopen": "10.22",
+    "high": "10.39",
+    "low": "10.19",
+    "volume": "28205",
+    "marketcap": "555558194",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "70572",
+    "pe": "11.98",
+    "eps": "0.86",
+    "high52": "11.83",
+    "low52": "7.7",
+    "change": "0.11",
+    "beta": "#N/A",
+    "changepct": "1.08",
+    "closeyest": "10.21",
+    "shares": "40614000",
+    "currency": "USD",
+    "ticker": "VINP"
+}

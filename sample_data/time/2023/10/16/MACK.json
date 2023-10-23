@@ -1,0 +1,22 @@
+{
+    "price": "12.44",
+    "priceopen": "12.37",
+    "high": "12.5",
+    "low": "12.29",
+    "volume": "24884",
+    "marketcap": "178152611",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "30404",
+    "pe": "#N/A",
+    "eps": "-0.11",
+    "high52": "13.66",
+    "low52": "3.31",
+    "change": "0.17",
+    "beta": "1.76",
+    "changepct": "1.39",
+    "closeyest": "12.27",
+    "shares": "14321000",
+    "currency": "USD",
+    "ticker": "MACK"
+}

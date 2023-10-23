@@ -1,0 +1,22 @@
+{
+    "price": "10.37",
+    "priceopen": "10.17",
+    "high": "10.47",
+    "low": "10.14",
+    "volume": "451070",
+    "marketcap": "1223309480",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "607948",
+    "pe": "#N/A",
+    "eps": "-0.88",
+    "high52": "17.44",
+    "low52": "8.5",
+    "change": "0.32",
+    "beta": "#N/A",
+    "changepct": "3.18",
+    "closeyest": "10.05",
+    "shares": "82408000",
+    "currency": "USD",
+    "ticker": "AMPL"
+}

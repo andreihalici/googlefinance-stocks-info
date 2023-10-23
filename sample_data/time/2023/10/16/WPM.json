@@ -1,0 +1,22 @@
+{
+    "price": "42.67",
+    "priceopen": "42.35",
+    "high": "42.96",
+    "low": "42.01",
+    "volume": "1176384",
+    "marketcap": "19325378714",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "1577979",
+    "pe": "31.4",
+    "eps": "1.36",
+    "high52": "52.76",
+    "low52": "30.35",
+    "change": "0.2",
+    "beta": "0.62",
+    "changepct": "0.47",
+    "closeyest": "42.47",
+    "shares": "452969000",
+    "currency": "USD",
+    "ticker": "WPM"
+}

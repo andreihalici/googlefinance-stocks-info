@@ -16,6 +16,7 @@
   * [Features](#features)
 - [Usage](#usage)
 - [Out of Scope](#OutofScope)
+- [Sample Data](#sampledata)
 - [Acknowledgements](#acknowledgements)
 
 <!-- About the Project -->
@@ -65,6 +66,10 @@ While the API works as intended, for a production ready API please consider addi
 - <a href="https://fastapi.tiangolo.com/tutorial/testing/">Testing</a> for existing endpoints.
 - Setting up rate limiting and <a href="https://fastapi.tiangolo.com/tutorial/security"> security</a>.
 - Setting up logging, monitoring or tracing (using your favorite platform/tools).
+
+<!-- Sample Data -->
+## Sample Data
+While not a best practice to add large files to git repositories I added some sample data for testing.
 
 <!-- Acknowledgements -->
 ## Acknowledgements

@@ -1,0 +1,22 @@
+{
+    "price": "42.67",
+    "priceopen": "42.49",
+    "high": "42.89",
+    "low": "42.49",
+    "volume": "5050",
+    "marketcap": "98221744",
+    "tradetime": "10/16/2023 20:00:00",
+    "datadelay": "0",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "48.19",
+    "low52": "28.98",
+    "change": "0.35",
+    "beta": "#N/A",
+    "changepct": "0.83",
+    "closeyest": "42.32",
+    "shares": "6450000",
+    "currency": "USD",
+    "ticker": "PSI"
+}

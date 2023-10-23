@@ -1,0 +1,22 @@
+{
+    "price": "0.28",
+    "priceopen": "0.33",
+    "high": "0.33",
+    "low": "0.25",
+    "volume": "2309221",
+    "marketcap": "11046010",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "2431601",
+    "pe": "#N/A",
+    "eps": "-2.17",
+    "high52": "2.05",
+    "low52": "0.21",
+    "change": "-0.05",
+    "beta": "1.24",
+    "changepct": "-14.82",
+    "closeyest": "0.33",
+    "shares": "32580000",
+    "currency": "USD",
+    "ticker": "BCEL"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "12.34",
+    "priceopen": "12.03",
+    "high": "12.46",
+    "low": "11.91",
+    "volume": "1971807",
+    "marketcap": "2057543243",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "2442918",
+    "pe": "37.68",
+    "eps": "0.33",
+    "high52": "18.24",
+    "low52": "10.09",
+    "change": "0.47",
+    "beta": "0.97",
+    "changepct": "3.92",
+    "closeyest": "11.88",
+    "shares": "166738000",
+    "currency": "USD",
+    "ticker": "DEI"
+}

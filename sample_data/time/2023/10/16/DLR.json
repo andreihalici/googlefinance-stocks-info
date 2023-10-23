@@ -1,0 +1,22 @@
+{
+    "price": "123.72",
+    "priceopen": "123.48",
+    "high": "124.68",
+    "low": "122.1",
+    "volume": "1112109",
+    "marketcap": "37451182593",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "2086545",
+    "pe": "94.35",
+    "eps": "1.31",
+    "high52": "133.39",
+    "low52": "86.33",
+    "change": "1.12",
+    "beta": "0.54",
+    "changepct": "0.91",
+    "closeyest": "122.6",
+    "shares": "302709000",
+    "currency": "USD",
+    "ticker": "DLR"
+}

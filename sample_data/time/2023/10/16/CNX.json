@@ -1,0 +1,22 @@
+{
+    "price": "23.12",
+    "priceopen": "23.15",
+    "high": "23.29",
+    "low": "22.89",
+    "volume": "1825161",
+    "marketcap": "3733068623",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "2422929",
+    "pe": "2.21",
+    "eps": "10.45",
+    "high52": "23.51",
+    "low52": "14.36",
+    "change": "-0.05",
+    "beta": "1.33",
+    "changepct": "-0.22",
+    "closeyest": "23.17",
+    "shares": "161465000",
+    "currency": "USD",
+    "ticker": "CNX"
+}

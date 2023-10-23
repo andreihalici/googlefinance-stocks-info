@@ -1,0 +1,22 @@
+{
+    "price": "10.5",
+    "priceopen": "#N/A",
+    "high": "#N/A",
+    "low": "#N/A",
+    "volume": "0",
+    "marketcap": "89082200",
+    "tradetime": "9/12/2023 15:09:11",
+    "datadelay": "0",
+    "volumeavg": "150",
+    "pe": "44.56",
+    "eps": "0.24",
+    "high52": "11.05",
+    "low52": "9.85",
+    "change": "-0.05",
+    "beta": "#N/A",
+    "changepct": "-0.47",
+    "closeyest": "10.55",
+    "shares": "1584000",
+    "currency": "USD",
+    "ticker": "BLEU"
+}

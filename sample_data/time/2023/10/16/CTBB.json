@@ -1,0 +1,22 @@
+{
+    "price": "12.34",
+    "priceopen": "12.28",
+    "high": "12.76",
+    "low": "12.08",
+    "volume": "54489",
+    "marketcap": "30",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "155598",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "22.35",
+    "low52": "10.12",
+    "change": "-0.01",
+    "beta": "0.48",
+    "changepct": "-0.08",
+    "closeyest": "12.35",
+    "shares": "39100000",
+    "currency": "USD",
+    "ticker": "CTBB"
+}

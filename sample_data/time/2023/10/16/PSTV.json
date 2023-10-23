@@ -1,0 +1,22 @@
+{
+    "price": "1.23",
+    "priceopen": "1.4",
+    "high": "1.6",
+    "low": "1.11",
+    "volume": "885469",
+    "marketcap": "4254919",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "860639",
+    "pe": "#N/A",
+    "eps": "-8.04",
+    "high52": "8.1",
+    "low52": "1.11",
+    "change": "-0.14",
+    "beta": "-10.52",
+    "changepct": "-10.22",
+    "closeyest": "1.37",
+    "shares": "2880000",
+    "currency": "USD",
+    "ticker": "PSTV"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "42.33",
+    "priceopen": "41.24",
+    "high": "42.48",
+    "low": "40.14",
+    "volume": "1573671",
+    "marketcap": "5049258074",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "1410222",
+    "pe": "#N/A",
+    "eps": "-4.82",
+    "high52": "63",
+    "low52": "34",
+    "change": "0.79",
+    "beta": "1.17",
+    "changepct": "1.9",
+    "closeyest": "41.54",
+    "shares": "114602000",
+    "currency": "USD",
+    "ticker": "NTRA"
+}

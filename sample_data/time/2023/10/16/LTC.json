@@ -1,0 +1,22 @@
+{
+    "price": "32.63",
+    "priceopen": "32.46",
+    "high": "32.72",
+    "low": "32.19",
+    "volume": "197169",
+    "marketcap": "1351165598",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "263083",
+    "pe": "19.08",
+    "eps": "1.71",
+    "high52": "40.52",
+    "low52": "30.73",
+    "change": "0.31",
+    "beta": "0.93",
+    "changepct": "0.96",
+    "closeyest": "32.32",
+    "shares": "41409000",
+    "currency": "USD",
+    "ticker": "LTC"
+}

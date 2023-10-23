@@ -1,0 +1,22 @@
+{
+    "price": "12.04",
+    "priceopen": "13.21",
+    "high": "13.55",
+    "low": "12.04",
+    "volume": "4531",
+    "marketcap": "37725545",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "669",
+    "pe": "6.66",
+    "eps": "1.81",
+    "high52": "21.8",
+    "low52": "12.04",
+    "change": "-1.51",
+    "beta": "0.5",
+    "changepct": "-11.14",
+    "closeyest": "13.55",
+    "shares": "3133000",
+    "currency": "USD",
+    "ticker": "HFBL"
+}

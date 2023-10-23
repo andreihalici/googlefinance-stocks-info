@@ -1,0 +1,22 @@
+{
+    "price": "42.22",
+    "priceopen": "43.3",
+    "high": "43.42",
+    "low": "42",
+    "volume": "177980",
+    "marketcap": "#N/A",
+    "tradetime": "10/16/2023 20:00:00",
+    "datadelay": "0",
+    "volumeavg": "#N/A",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "49.53",
+    "low52": "28.22",
+    "change": "-1.09",
+    "beta": "#N/A",
+    "changepct": "-2.52",
+    "closeyest": "43.31",
+    "shares": "#N/A",
+    "currency": "USD",
+    "ticker": "URNM"
+}

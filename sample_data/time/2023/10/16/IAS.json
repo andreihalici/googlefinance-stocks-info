@@ -1,0 +1,22 @@
+{
+    "price": "11.99",
+    "priceopen": "11.79",
+    "high": "12.11",
+    "low": "11.66",
+    "volume": "1077187",
+    "marketcap": "1878234663",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "711947",
+    "pe": "82.4",
+    "eps": "0.15",
+    "high52": "20.88",
+    "low52": "6.63",
+    "change": "0.32",
+    "beta": "#N/A",
+    "changepct": "2.74",
+    "closeyest": "11.67",
+    "shares": "156650000",
+    "currency": "USD",
+    "ticker": "IAS"
+}

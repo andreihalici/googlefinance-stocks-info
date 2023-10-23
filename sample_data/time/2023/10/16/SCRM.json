@@ -1,0 +1,22 @@
+{
+    "price": "10.47",
+    "priceopen": "10.5",
+    "high": "10.5",
+    "low": "10.45",
+    "volume": "5096",
+    "marketcap": "981562525",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "156962",
+    "pe": "34.51",
+    "eps": "0.3",
+    "high52": "11.5",
+    "low52": "9.59",
+    "change": "-0.01",
+    "beta": "#N/A",
+    "changepct": "-0.05",
+    "closeyest": "10.48",
+    "shares": "75000000",
+    "currency": "USD",
+    "ticker": "SCRM"
+}

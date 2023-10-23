@@ -1,0 +1,22 @@
+{
+    "price": "1.17",
+    "priceopen": "1.23",
+    "high": "1.23",
+    "low": "1.17",
+    "volume": "784252",
+    "marketcap": "298914748",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "1038510",
+    "pe": "8.12",
+    "eps": "0.14",
+    "high52": "2.29",
+    "low52": "0.81",
+    "change": "-0.03",
+    "beta": "1.92",
+    "changepct": "-2.5",
+    "closeyest": "1.2",
+    "shares": "255483000",
+    "currency": "USD",
+    "ticker": "PGEN"
+}

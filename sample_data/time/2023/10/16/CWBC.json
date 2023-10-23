@@ -1,0 +1,22 @@
+{
+    "price": "12.1",
+    "priceopen": "12.2",
+    "high": "12.5",
+    "low": "12.1",
+    "volume": "10081",
+    "marketcap": "107101665",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "3567",
+    "pe": "9.45",
+    "eps": "1.28",
+    "high52": "15.23",
+    "low52": "10.38",
+    "change": "-0.1",
+    "beta": "0.65",
+    "changepct": "-0.82",
+    "closeyest": "12.2",
+    "shares": "8851000",
+    "currency": "USD",
+    "ticker": "CWBC"
+}

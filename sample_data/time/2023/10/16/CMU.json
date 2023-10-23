@@ -1,0 +1,22 @@
+{
+    "price": "2.99",
+    "priceopen": "3.08",
+    "high": "3.08",
+    "low": "2.96",
+    "volume": "262227",
+    "marketcap": "84692677",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "61541",
+    "pe": "#N/A",
+    "eps": "-0.26",
+    "high52": "3.4",
+    "low52": "2.88",
+    "change": "-0.09",
+    "beta": "0.51",
+    "changepct": "-2.92",
+    "closeyest": "3.08",
+    "shares": "28325000",
+    "currency": "USD",
+    "ticker": "CMU"
+}

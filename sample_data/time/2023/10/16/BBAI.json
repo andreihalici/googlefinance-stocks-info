@@ -1,0 +1,22 @@
+{
+    "price": "1.34",
+    "priceopen": "1.34",
+    "high": "1.35",
+    "low": "1.31",
+    "volume": "1045557",
+    "marketcap": "208808587",
+    "tradetime": "10/16/2023 16:00:05",
+    "datadelay": "0",
+    "volumeavg": "2145655",
+    "pe": "#N/A",
+    "eps": "-0.67",
+    "high52": "6.77",
+    "low52": "0.58",
+    "change": "0.03",
+    "beta": "#N/A",
+    "changepct": "2.29",
+    "closeyest": "1.31",
+    "shares": "155827000",
+    "currency": "USD",
+    "ticker": "BBAI"
+}

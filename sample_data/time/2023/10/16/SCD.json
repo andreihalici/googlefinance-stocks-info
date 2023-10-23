@@ -1,0 +1,22 @@
+{
+    "price": "12.43",
+    "priceopen": "12.35",
+    "high": "12.58",
+    "low": "12.35",
+    "volume": "37184",
+    "marketcap": "213022734",
+    "tradetime": "10/16/2023 16:00:02",
+    "datadelay": "0",
+    "volumeavg": "40408",
+    "pe": "#N/A",
+    "eps": "-0.59",
+    "high52": "13.47",
+    "low52": "11.15",
+    "change": "0.19",
+    "beta": "1.38",
+    "changepct": "1.55",
+    "closeyest": "12.24",
+    "shares": "17567000",
+    "currency": "USD",
+    "ticker": "SCD"
+}

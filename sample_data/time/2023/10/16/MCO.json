@@ -1,0 +1,22 @@
+{
+    "price": "321.42",
+    "priceopen": "320.33",
+    "high": "325.1",
+    "low": "318.67",
+    "volume": "497983",
+    "marketcap": "58980540321",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "595250",
+    "pe": "41.46",
+    "eps": "7.75",
+    "high52": "363.19",
+    "low52": "233.22",
+    "change": "4.02",
+    "beta": "1.3",
+    "changepct": "1.27",
+    "closeyest": "317.4",
+    "shares": "183500000",
+    "currency": "USD",
+    "ticker": "MCO"
+}

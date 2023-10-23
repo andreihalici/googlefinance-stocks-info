@@ -1,0 +1,22 @@
+{
+    "price": "42.47",
+    "priceopen": "42.14",
+    "high": "42.62",
+    "low": "41.88",
+    "volume": "4354853",
+    "marketcap": "22600725427",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "5180665",
+    "pe": "17.14",
+    "eps": "2.48",
+    "high52": "52.23",
+    "low52": "37.08",
+    "change": "0.68",
+    "beta": "1.33",
+    "changepct": "1.63",
+    "closeyest": "41.79",
+    "shares": "532157000",
+    "currency": "USD",
+    "ticker": "EBAY"
+}

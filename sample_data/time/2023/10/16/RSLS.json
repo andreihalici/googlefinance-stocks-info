@@ -1,0 +1,22 @@
+{
+    "price": "0.32",
+    "priceopen": "0.27",
+    "high": "0.33",
+    "low": "0.25",
+    "volume": "3187931",
+    "marketcap": "4103683",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "3492484",
+    "pe": "#N/A",
+    "eps": "-1345.55",
+    "high52": "22.4",
+    "low52": "0.21",
+    "change": "0.02",
+    "beta": "0.02",
+    "changepct": "6.97",
+    "closeyest": "0.3",
+    "shares": "12552000",
+    "currency": "USD",
+    "ticker": "RSLS"
+}

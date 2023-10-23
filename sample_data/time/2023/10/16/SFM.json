@@ -1,0 +1,22 @@
+{
+    "price": "42",
+    "priceopen": "43.23",
+    "high": "43.39",
+    "low": "41.66",
+    "volume": "2671921",
+    "marketcap": "4284256200",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "1524530",
+    "pe": "17.45",
+    "eps": "2.41",
+    "high52": "44.24",
+    "low52": "26.35",
+    "change": "-1.21",
+    "beta": "0.38",
+    "changepct": "-2.8",
+    "closeyest": "43.21",
+    "shares": "102006000",
+    "currency": "USD",
+    "ticker": "SFM"
+}

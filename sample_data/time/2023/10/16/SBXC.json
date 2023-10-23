@@ -1,0 +1,22 @@
+{
+    "price": "10.24",
+    "priceopen": "#N/A",
+    "high": "#N/A",
+    "low": "#N/A",
+    "volume": "4",
+    "marketcap": "123000000",
+    "tradetime": "10/13/2023 13:39:12",
+    "datadelay": "0",
+    "volumeavg": "15827",
+    "pe": "159.6",
+    "eps": "0.06",
+    "high52": "10.49",
+    "low52": "1",
+    "change": "0",
+    "beta": "#N/A",
+    "changepct": "0",
+    "closeyest": "10.24",
+    "shares": "13800000",
+    "currency": "USD",
+    "ticker": "SBXC"
+}

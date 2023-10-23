@@ -1,0 +1,22 @@
+{
+    "price": "34.42",
+    "priceopen": "34.11",
+    "high": "34.75",
+    "low": "33.89",
+    "volume": "10131633",
+    "marketcap": "22148005607",
+    "tradetime": "10/16/2023 16:00:04",
+    "datadelay": "0",
+    "volumeavg": "9890253",
+    "pe": "6.5",
+    "eps": "5.29",
+    "high52": "49.81",
+    "low52": "30.72",
+    "change": "0.31",
+    "beta": "1.32",
+    "changepct": "0.91",
+    "closeyest": "34.11",
+    "shares": "643463000",
+    "currency": "USD",
+    "ticker": "DAL"
+}

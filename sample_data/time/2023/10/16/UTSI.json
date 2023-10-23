@@ -1,0 +1,22 @@
+{
+    "price": "3.33",
+    "priceopen": "3.49",
+    "high": "3.55",
+    "low": "3.33",
+    "volume": "9899",
+    "marketcap": "30213359",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "3849",
+    "pe": "#N/A",
+    "eps": "-0.55",
+    "high52": "5.03",
+    "low52": "3.1",
+    "change": "-0.01",
+    "beta": "0.72",
+    "changepct": "-0.3",
+    "closeyest": "3.34",
+    "shares": "9074000",
+    "currency": "USD",
+    "ticker": "UTSI"
+}

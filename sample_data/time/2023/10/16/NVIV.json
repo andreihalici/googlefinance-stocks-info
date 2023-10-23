@@ -1,0 +1,22 @@
+{
+    "price": "1.02",
+    "priceopen": "1.06",
+    "high": "1.07",
+    "low": "1.01",
+    "volume": "10132",
+    "marketcap": "3167247",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "8197",
+    "pe": "#N/A",
+    "eps": "-4.64",
+    "high52": "3.06",
+    "low52": "0.81",
+    "change": "-0.01",
+    "beta": "0.8",
+    "changepct": "-0.97",
+    "closeyest": "1.03",
+    "shares": "3105000",
+    "currency": "USD",
+    "ticker": "NVIV"
+}

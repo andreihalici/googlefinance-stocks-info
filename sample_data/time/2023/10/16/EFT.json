@@ -1,0 +1,22 @@
+{
+    "price": "12.16",
+    "priceopen": "12.22",
+    "high": "12.22",
+    "low": "12.07",
+    "volume": "158708",
+    "marketcap": "353739381",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "91626",
+    "pe": "#N/A",
+    "eps": "#N/A",
+    "high52": "12.51",
+    "low52": "10.89",
+    "change": "0.05",
+    "beta": "0.57",
+    "changepct": "0.41",
+    "closeyest": "12.11",
+    "shares": "29090000",
+    "currency": "USD",
+    "ticker": "EFT"
+}

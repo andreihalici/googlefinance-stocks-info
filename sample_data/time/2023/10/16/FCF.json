@@ -1,0 +1,22 @@
+{
+    "price": "12.52",
+    "priceopen": "12.31",
+    "high": "12.55",
+    "low": "12.31",
+    "volume": "589396",
+    "marketcap": "1282125670",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "524694",
+    "pe": "8.55",
+    "eps": "1.46",
+    "high52": "16.53",
+    "low52": "11.33",
+    "change": "0.33",
+    "beta": "0.95",
+    "changepct": "2.67",
+    "closeyest": "12.2",
+    "shares": "102406000",
+    "currency": "USD",
+    "ticker": "FCF"
+}

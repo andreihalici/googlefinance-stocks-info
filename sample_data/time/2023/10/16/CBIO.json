@@ -1,0 +1,22 @@
+{
+    "price": "0.42",
+    "priceopen": "0.35",
+    "high": "0.42",
+    "low": "0.35",
+    "volume": "397678",
+    "marketcap": "15846250",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "232503",
+    "pe": "#N/A",
+    "eps": "-1.49",
+    "high52": "0.74",
+    "low52": "0.19",
+    "change": "0.08",
+    "beta": "-0.06",
+    "changepct": "24.33",
+    "closeyest": "0.34",
+    "shares": "37975000",
+    "currency": "USD",
+    "ticker": "CBIO"
+}

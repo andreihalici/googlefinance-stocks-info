@@ -1,0 +1,22 @@
+{
+    "price": "12.33",
+    "priceopen": "12.39",
+    "high": "12.39",
+    "low": "11.93",
+    "volume": "80958",
+    "marketcap": "90937226",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "25706",
+    "pe": "5.11",
+    "eps": "2.41",
+    "high52": "18.31",
+    "low52": "7.7",
+    "change": "0.04",
+    "beta": "1.18",
+    "changepct": "0.33",
+    "closeyest": "12.29",
+    "shares": "7375000",
+    "currency": "USD",
+    "ticker": "FRD"
+}

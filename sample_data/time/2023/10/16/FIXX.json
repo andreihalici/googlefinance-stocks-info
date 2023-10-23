@@ -1,0 +1,22 @@
+{
+    "price": "1.04",
+    "priceopen": "1.07",
+    "high": "1.13",
+    "low": "1.03",
+    "volume": "174638",
+    "marketcap": "60123520",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "133530",
+    "pe": "#N/A",
+    "eps": "-2.29",
+    "high52": "2.29",
+    "low52": "0.8",
+    "change": "-0.06",
+    "beta": "0.04",
+    "changepct": "-5.45",
+    "closeyest": "1.1",
+    "shares": "57811000",
+    "currency": "USD",
+    "ticker": "FIXX"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "0.5",
+    "priceopen": "0.5",
+    "high": "0.5",
+    "low": "0.48",
+    "volume": "7233",
+    "marketcap": "14733363",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "13951",
+    "pe": "#N/A",
+    "eps": "-0.4",
+    "high52": "1.45",
+    "low52": "0.35",
+    "change": "0.02",
+    "beta": "#N/A",
+    "changepct": "3.13",
+    "closeyest": "0.48",
+    "shares": "29764000",
+    "currency": "USD",
+    "ticker": "IPW"
+}

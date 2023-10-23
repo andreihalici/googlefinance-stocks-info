@@ -1,0 +1,22 @@
+{
+    "price": "13.3",
+    "priceopen": "13.42",
+    "high": "13.48",
+    "low": "13.17",
+    "volume": "1548034",
+    "marketcap": "2137258160",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "996144",
+    "pe": "0",
+    "eps": "0.1",
+    "high52": "16.47",
+    "low52": "12.27",
+    "change": "-0.04",
+    "beta": "#N/A",
+    "changepct": "-0.3",
+    "closeyest": "13.34",
+    "shares": "39499000",
+    "currency": "USD",
+    "ticker": "PRMW"
+}

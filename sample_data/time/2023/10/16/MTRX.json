@@ -1,0 +1,22 @@
+{
+    "price": "12.35",
+    "priceopen": "12.2",
+    "high": "12.7",
+    "low": "12.2",
+    "volume": "315566",
+    "marketcap": "336041410",
+    "tradetime": "10/16/2023 16:00:01",
+    "datadelay": "0",
+    "volumeavg": "261858",
+    "pe": "#N/A",
+    "eps": "-1.94",
+    "high52": "12.7",
+    "low52": "3.95",
+    "change": "0.28",
+    "beta": "1.36",
+    "changepct": "2.32",
+    "closeyest": "12.07",
+    "shares": "27210000",
+    "currency": "USD",
+    "ticker": "MTRX"
+}

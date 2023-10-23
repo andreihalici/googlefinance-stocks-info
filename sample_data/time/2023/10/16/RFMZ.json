@@ -1,0 +1,22 @@
+{
+    "price": "12.15",
+    "priceopen": "12.34",
+    "high": "12.35",
+    "low": "12.11",
+    "volume": "71739",
+    "marketcap": "295873753",
+    "tradetime": "10/16/2023 16:00:03",
+    "datadelay": "0",
+    "volumeavg": "63105",
+    "pe": "18.94",
+    "eps": "0.64",
+    "high52": "14.93",
+    "low52": "12.1",
+    "change": "-0.18",
+    "beta": "#N/A",
+    "changepct": "-1.46",
+    "closeyest": "12.33",
+    "shares": "24352000",
+    "currency": "USD",
+    "ticker": "RFMZ"
+}

@@ -1,0 +1,22 @@
+{
+    "price": "0.33",
+    "priceopen": "0.32",
+    "high": "0.35",
+    "low": "0.31",
+    "volume": "1165287",
+    "marketcap": "173195134",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "1786876",
+    "pe": "#N/A",
+    "eps": "-0.04",
+    "high52": "0.43",
+    "low52": "0.21",
+    "change": "0.01",
+    "beta": "1.07",
+    "changepct": "1.89",
+    "closeyest": "0.32",
+    "shares": "529957000",
+    "currency": "USD",
+    "ticker": "NAK"
+}

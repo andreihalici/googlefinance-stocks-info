@@ -1,0 +1,22 @@
+{
+    "price": "13.05",
+    "priceopen": "12.42",
+    "high": "13.09",
+    "low": "12.31",
+    "volume": "2059188",
+    "marketcap": "479439781",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "765653",
+    "pe": "#N/A",
+    "eps": "-3.66",
+    "high52": "23.19",
+    "low52": "10.54",
+    "change": "0.62",
+    "beta": "0.96",
+    "changepct": "4.99",
+    "closeyest": "12.43",
+    "shares": "36739000",
+    "currency": "USD",
+    "ticker": "OFIX"
+}

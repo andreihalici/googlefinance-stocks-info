@@ -1,0 +1,22 @@
+{
+    "price": "1.05",
+    "priceopen": "1.02",
+    "high": "1.08",
+    "low": "1.01",
+    "volume": "40188",
+    "marketcap": "129989469",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "97548",
+    "pe": "#N/A",
+    "eps": "-0.04",
+    "high52": "2.9",
+    "low52": "0.53",
+    "change": "0.02",
+    "beta": "1.85",
+    "changepct": "1.94",
+    "closeyest": "1.03",
+    "shares": "117903000",
+    "currency": "USD",
+    "ticker": "TOUR"
+}

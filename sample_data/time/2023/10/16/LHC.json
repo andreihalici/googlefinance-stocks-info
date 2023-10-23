@@ -1,0 +1,22 @@
+{
+    "price": "11.03",
+    "priceopen": "11.05",
+    "high": "11.05",
+    "low": "10.98",
+    "volume": "45413",
+    "marketcap": "153879085",
+    "tradetime": "10/16/2023 16:00:00",
+    "datadelay": "0",
+    "volumeavg": "45572",
+    "pe": "84.96",
+    "eps": "0.13",
+    "high52": "11.16",
+    "low52": "9.97",
+    "change": "0.03",
+    "beta": "#N/A",
+    "changepct": "0.27",
+    "closeyest": "11",
+    "shares": "4576000",
+    "currency": "USD",
+    "ticker": "LHC"
+}
