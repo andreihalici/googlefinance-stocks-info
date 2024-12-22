@@ -51,10 +51,9 @@ In a nutshell: this project creates programmatically a spreadsheet and populates
 
 <!-- Usage -->
 ## Usage
-1. Clone the <a href="https://github.com/andreihalici/googlefinance-stocks-info">googlefinance-stocks-info</a> repository locally. Once the repository is cloned, create a python virtual environment using the ```python3 -m venv venv``` command and install the required dependencies using the ```make setup``` command.
-2. Follow the <a href="https://developers.google.com/sheets/api/quickstart/python">Python quickstart</a> instructions and enable the API, authorize the credentials (use included quickstart.py file), install the Google client libraries and test everything (as previously mentioned) using the quickstart.py file.
-3. Once the GCP project is set up correctly for authentification and authorization, install <a href="https://www.docker.com/">Docker</a> and build the docker container using:
-the ```make build``` command. To run the freshly built container use the ```make run-container``` command. Alternatively the ```make run-local```  command will start the application locally (used for development/testing).
+1. Clone the <a href="https://github.com/andreihalici/googlefinance-stocks-info">googlefinance-stocks-info</a> repository locally. Once the repository is cloned, create a python virtual environment using the ```python3 -m venv .venv``` command and install the required dependencies using the ```make setup``` command.
+2. Follow the <a href="https://developers.google.com/sheets/api/quickstart/python">Python quickstart</a> instructions and enable the API, authorize the credentials (use included quickstart.py file), install the Google client libraries and test everything (as previously mentioned) using ```pip install -r requirements.txt ```.
+3. To run the freshly built container use the ```hypercorn app.main:app --reload``` command which will start the application locally (used for development/testing).
 4. Navigate to ``` http://localhost``` on port ```80``` and test the API.
   <img src="artifacts/localhost=realtime.png" alt="logo" width="auto" height="auto" />
 
@@ -69,7 +68,7 @@ While the API works as intended, for a production ready API please consider addi
 
 <!-- Sample Data -->
 ## Sample Data
-While not a best practice to add large files to git repositories I added some sample data for testing.
+While not a best practice to add large files to git repositories I added some sample data for testing. If you're having trouble cloning the repo on Windows ensure you set before ```git config --system core.longpaths true```
 
 <!-- Acknowledgements -->
 ## Acknowledgements
