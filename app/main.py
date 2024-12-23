@@ -44,8 +44,8 @@ if os.path.exists(TOKEN_FILE):
 
 app = FastAPI(
     title="googlefinance-stocks-info",
-    description="Simple API which allows to pull realtime and historical data from Google Finance using Google Sheets API ",
-    version="0.1",
+    description="API which allows to pull realtime and historical data from Google Finance using Google Sheets API ",
+    version="0.2",
     license_info={
         "name": "GNU GENERAL PUBLIC LICENSE Version 3",
         "url": "https://www.gnu.org/licenses/gpl-3.0.en.html",
@@ -61,7 +61,8 @@ def get_ticker_symbol_realtime_info(ticker_symbol: str):
     CSV_TEMPLATE_FILE = os.getcwd() + str("/artifacts/GOOGLEFINANCE-StocksRealTime-TEMPLATE.csv")
 
     try:
-        spreadsheetId = api_functionality.create_spreadsheet(creds, "GOOGLEFINANCE-StocksRealTime")
+        spreadsheetId = api_functionality.create_spreadsheet(creds, ticker_symbol)
+
         logging.info("The generated spreadsheetId is: %s", spreadsheetId)
 
         api_functionality.update_from_csv(creds, spreadsheetId, ticker_symbol, CSV_TEMPLATE_FILE)
@@ -84,7 +85,7 @@ def get_ticker_symbol_historical_info(ticker_symbol: str):
     CSV_TEMPLATE_FILE = os.getcwd() + str("/artifacts/GOOGLEFINANCE-HistoricalMarketData-TEMPLATE.csv")
 
     try:
-        spreadsheetId = api_functionality.create_spreadsheet(creds, "GOOGLEFINANCE-StocksRealTime")
+        spreadsheetId = api_functionality.create_spreadsheet(creds, ticker_symbol)
         logging.info("The generated spreadsheetId is: %s", spreadsheetId)
 
         api_functionality.update_from_csv(creds, spreadsheetId, ticker_symbol, CSV_TEMPLATE_FILE)
