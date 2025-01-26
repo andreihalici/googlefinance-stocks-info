@@ -22,7 +22,6 @@
 <!-- About the Project -->
 ## About the Project
 Unfortunately the "Google Finance API (both the Portfolio API and the Finance Gadgets and Tools API)" were "<a href="https://groups.google.com/g/google-finance-apis">shut down</a> on October 20, 2012". Realtime and historical data can be retrieved though using the <a href="https://support.google.com/docs/answer/3093281?hl=en">=GOOGLEFINANCE()</a> function directly in Google Sheets.
-In a nutshell: this project creates programmatically a spreadsheet and populates the required information using the =GOOGLEFINANCE function, values are then retrieved and served as a JSON response using FastAPI.
 
 <!-- Screenshots -->
 ### Screenshots
